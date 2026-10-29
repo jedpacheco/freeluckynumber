@@ -1,0 +1,63 @@
+Every time a big jackpot gets announced, the same question comes up. Did the winner choose their own numbers, or did they let the machine pick? And if most winners used quick picks, does that mean quick picks are luckier?
+
+It's a fair question, and the answer is a nice example of how statistics can trick us if we only look at part of the picture. Let's go through it.
+
+## What a quick pick is
+
+A quick pick, sometimes called an easy pick or lucky dip, is when the lottery terminal chooses your numbers at random instead of you filling in a play slip. The terminal uses a random number generator, much like our own [Lottery Number Generator](/tools/lottery-number-generator) does. You pay the same price and the ticket works exactly the same way.
+
+## Why it looks like quick picks win more
+
+Lottery officials have said for years that most jackpot winners used quick picks. That sounds like a point for the machine. But it leaves out the most important detail: most tickets sold are quick picks in the first place.
+
+Lottery organizations in the U.S. have commonly reported that somewhere around 70 to 80 percent of tickets for big multistate games are quick picks. If seven or eight out of every ten tickets are quick picks, you'd expect about seven or eight out of every ten winners to be quick picks too. And that's roughly what happens.
+
+Here's a way to picture it. Imagine a raffle where 80 people get blue tickets and 20 people get red tickets. When the winner is drawn, there's an 80 percent chance they'll be holding a blue ticket. That doesn't mean blue tickets are luckier. It just means there were more of them.
+
+## The math for a single ticket
+
+Now look at it from the point of view of one ticket. In a fair draw, every possible combination has the same chance. For Powerball, that's about 1 in 292.2 million for the jackpot.
+
+It doesn't matter whether a person chose 7, 14, 21, 33, 45 and 12, or a terminal spit them out. The drawing machine doesn't know how the numbers got on your ticket. So a quick pick and a hand-picked ticket have exactly the same chance of winning.
+
+## Where your choice actually matters: sharing
+
+There's one way your picking method can make a difference, and it's not in your chance of winning. It's in how much you might win.
+
+When a jackpot is won by more than one ticket, it's split. And people who choose their own numbers tend to choose in similar ways. They pick birthdays and anniversaries, which only go up to 31. They pick lucky 7s. They draw shapes on the slip, like diagonal lines. They play sequences like 1, 2, 3, 4, 5.
+
+Because so many people make similar choices, hand-picked combinations are more likely to be shared if they win. Quick picks are spread out more evenly across all possible numbers, so a winning quick pick is somewhat less likely to be shared.
+
+There are real examples of this. In a 2005 Powerball drawing, 110 players matched five numbers and won second-tier prizes. Lottery officials first suspected fraud, then found that many of the players had used the same numbers from a fortune cookie. The prize pool for that tier had to be split many ways.
+
+We dig into the birthday side of this in [birthday numbers and the lottery](/articles/birthday-numbers-and-the-lottery).
+
+## Quick picks don't fix everything
+
+Random picks have their own oddities. Since they're random, they can occasionally produce patterns that look "chosen," like 3, 4, 5, 6, 7. And two terminals can, by chance, produce the same combination for two different players. That's rare but possible.
+
+The point isn't that quick picks are better. It's that they're no worse, and they slightly reduce the chance that you'd share a top prize, simply because they avoid the most popular human habits.
+
+## Why people still choose their own numbers
+
+Plenty of people prefer to choose, and that's completely fine. Picking your own numbers can feel more personal. Some people play the same set every week, made from family birthdays or important dates. For them, the fun is in the ritual and the story behind the numbers.
+
+There's also a feeling psychologists call the illusion of control. When we choose something ourselves, we tend to feel it's more likely to succeed, even in games of pure chance. In a classic 1975 study, psychologist Ellen Langer found that people who picked their own lottery tickets asked for much more money to sell them than people who were handed one at random. The tickets had identical odds, but the chosen ones felt more valuable.
+
+Knowing about that effect is useful. It doesn't mean you shouldn't choose your own numbers. It just helps to remember that the warm feeling of "these are my numbers" isn't the same as better odds.
+
+## So which should you use?
+
+If you want the honest answer: it doesn't matter for your chance of winning. Choose whichever you enjoy more.
+
+- If you like the ritual of picking meaningful numbers, go ahead.
+- If you'd rather avoid sharing a jackpot with others who picked the same popular numbers, a random pick is a sensible choice.
+- If you can't decide, you could even use our [Random Decision Picker](/tools/random-decision-picker) to choose for you.
+
+## Keep it fun
+
+A lottery ticket should be a small, fun purchase, not a plan. The odds for the jackpot in big games are in the hundreds of millions, and the average return on a ticket is less than what you pay. That's not a secret. It's how lotteries are designed.
+
+So set a budget, keep it small and enjoy the daydream. Only play if you're of legal age, and if it stops feeling like a game, help is available in the U.S. at 1-800-GAMBLER.
+
+Want to understand the odds better? Try our [Simple Odds Calculator](/odds), or read about common misunderstandings in [lottery myths about hot and cold numbers](/articles/lottery-myths-hot-and-cold-numbers) and [the gambler's fallacy](/articles/gamblers-fallacy-explained).

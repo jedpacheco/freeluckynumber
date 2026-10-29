@@ -1,0 +1,39 @@
+## How the decision picker works
+
+Type in your options, one at a time, and spin the wheel. When it stops, the option under the pointer is your pick. Behind the scenes, the tool uses your browser's random number generator to choose a result, and every option has an equal chance of being picked. The spin animation is just for fun. It doesn't change the outcome.
+
+You can add as many options as you like, but two to eight usually works best. More than that and the slices get small and harder to read.
+
+## What it's good for
+
+The decision wheel is made for small, low-stakes choices where you'd be happy with any of the options:
+
+- What to have for dinner or where to order from.
+- Which movie or show to watch tonight.
+- Who goes first in a game, or who picks the music in the car.
+- Which chore to do first, or which workout to try.
+- Picking a name from a list for a classroom activity or giveaway among friends.
+
+It's also a neutral way to settle a group decision. Nobody can say the wheel played favorites.
+
+## What it's not for
+
+Please don't use a random wheel for important decisions about health, money, work, legal matters or relationships. Those deserve real thought and, often, advice from someone you trust. A good rule of thumb: if you'd be upset about one of the options, don't put it on the wheel.
+
+## A useful trick
+
+Even when you can't decide, the wheel can help you figure out what you actually want. Spin it and notice your reaction. If you feel a little disappointed with the result, that's a sign you were leaning toward a different option. Our guide on [how to use a random picker to make decisions faster](/articles/how-to-use-a-random-picker-to-decide-faster) explains this and a few other tips.
+
+## Frequently asked questions
+
+### Is the wheel truly random?
+
+It uses your browser's built-in random number function, which is more than random enough for everyday choices. Read [how random number generators work](/articles/how-random-number-generators-work) for more.
+
+### Why did it pick the same thing twice in a row?
+
+Streaks are a normal part of randomness. Each spin is independent, so repeats happen.
+
+### Are my options saved?
+
+Your options stay on your device and aren't sent to us.

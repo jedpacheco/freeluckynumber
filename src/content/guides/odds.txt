@@ -1,0 +1,33 @@
+## How the odds calculator works
+
+Odds and probability describe how likely something is to happen. This calculator lets you enter how many winning outcomes there are and how many total outcomes are possible, and it shows the chance as a percentage, a "1 in" number and a visual meter. For example, if you have 1 winning outcome out of 6, like rolling a specific number on a die, the chance is 1 in 6, or about 16.7 percent.
+
+The math is simple: chance = winning outcomes ÷ total outcomes. Multiply by 100 to get a percentage.
+
+## Odds versus probability
+
+People often use "odds" and "probability" to mean the same thing, but they're slightly different. Probability compares the winning outcomes to all outcomes, so rolling a 6 is 1 in 6. Odds compare winning outcomes to losing outcomes, so the odds of rolling a 6 are 1 to 5. Lotteries usually publish their chances as "1 in" numbers, which are probabilities.
+
+## Why seeing odds helps
+
+Very small chances are hard to picture. A 1 in 292 million chance, which is roughly the chance of winning the Powerball jackpot with one ticket, is so small that the meter barely moves. Seeing that visually helps a lot of people understand why lottery tickets are best treated as entertainment, not a plan.
+
+It's also useful for everyday questions, like the chance of drawing a certain card, winning a raffle with several tickets or guessing a coin flip correctly three times in a row (1 in 8, or 12.5 percent).
+
+## Common mistakes with odds
+
+The most common mistake is believing past results change future chances in independent events. If a coin lands on heads five times, the next flip is still 50/50. This is called [the gambler's fallacy](/articles/gamblers-fallacy-explained), and it's behind a lot of lottery myths, like the idea that some numbers are "hot" or "due." Our article on [lottery myths](/articles/lottery-myths-hot-and-cold-numbers) explains why those beliefs don't hold up.
+
+## Frequently asked questions
+
+### Is this gambling advice?
+
+No. It's an educational tool for understanding chance. It doesn't recommend any bet.
+
+### Does buying more tickets help?
+
+Each extra ticket adds one more chance, so two tickets give you twice the chance of one. But when the odds are 1 in hundreds of millions, twice as likely is still extremely unlikely.
+
+### Why don't the percentages add up exactly?
+
+Some results are rounded to make them easier to read.

@@ -1,0 +1,96 @@
+If you've ever read a numerology page, the first thing it asks for is your date of birth. That date gets turned into a single number called the life path number, and in numerology it's treated as the most important number you have. People who follow numerology say it describes your general personality and the kind of path you tend to take through life.
+
+We want to be upfront about one thing before we start. Numerology is a belief system, not a science. There's no research showing that a number made from your birth date shapes who you are. But it's an old tradition, lots of people find it fun or even meaningful, and the math behind it is simple enough that anyone can do it on the back of a receipt. So let's go through how it works and what people say each number means.
+
+## Where the idea comes from
+
+Modern Western numerology is usually traced back to the Greek mathematician Pythagoras, who taught that numbers were the building blocks of everything. Whether he'd recognize today's version is another question. Most of what you'll see online comes from writers in the late 1800s and early 1900s, especially an American named L. Dow Balliett, who popularized the idea of connecting letters and dates to personality. The term "life path" became common later, through numerology books from the 1970s onward.
+
+## How to calculate your life path number
+
+The standard method is to reduce the month, the day and the year separately, then add them together and reduce again. Here's the process:
+
+- Write down your birth date as month, day and year.
+- Reduce each part to a single digit by adding its digits together. Keep going until you have one digit.
+- Add the three results together.
+- Reduce that total to a single digit.
+
+There's one exception. If you land on 11, 22 or 33 at any step, most numerologists stop and keep it as it is. These are called master numbers, and we wrote a separate piece on [master numbers 11, 22 and 33](/articles/master-numbers-11-22-33) if you want the details.
+
+### A worked example
+
+Let's use July 4, 1991.
+
+The month is 7, which is already one digit.
+
+The day is 4, also one digit.
+
+The year is 1991. Add 1 + 9 + 9 + 1 and you get 20. Then 2 + 0 gives you 2.
+
+Now add the three parts: 7 + 4 + 2 = 13. Reduce 13 by adding 1 + 3, and you get 4. So the life path number for July 4, 1991 is 4.
+
+### Why the method matters
+
+You might wonder why we don't just add all the digits at once. For most dates, you'd get the same final number either way. The difference shows up with master numbers. Adding everything in one long string can skip right past an 11 or 22 that would have shown up when the parts were reduced separately. That's why most numerologists prefer the three-part method. Some people do it differently, and you'll find small disagreements between books, which is a good reminder that this is a tradition with variations, not a fixed rule.
+
+## What each life path number is said to mean
+
+These are the traditional descriptions you'll find in most numerology books. Think of them like a horoscope: broad, flattering and open to interpretation.
+
+### 1: The leader
+
+People with a 1 are described as independent, driven and happy to go first. The flip side, according to numerologists, is stubbornness and a dislike of being told what to do.
+
+### 2: The peacemaker
+
+A 2 is said to be sensitive, cooperative and good at reading a room. They're often described as the friend who keeps the group together, sometimes at the cost of their own needs.
+
+### 3: The communicator
+
+Threes are linked with creativity, humor and self-expression. Writers, performers and people who light up a party are the stereotype. Scattered energy is the usual warning.
+
+### 4: The builder
+
+A 4 is described as practical, organized and reliable. They like plans, routines and finishing what they start. Numerology books often say they need to watch out for rigidity.
+
+### 5: The adventurer
+
+Fives are linked with freedom, travel and change. They're said to get bored easily and to love new experiences. Restlessness is the common caution.
+
+### 6: The caretaker
+
+A 6 is associated with family, responsibility and looking after others. They're often called the nurturers of numerology. The warning is about taking on too much for other people.
+
+### 7: The thinker
+
+Sevens are described as curious, private and analytical. They're said to want to understand how things work, and they may need a lot of time alone. If you're curious why 7 gets so much attention in general, we wrote about [why 7 is called the luckiest number](/articles/why-7-is-the-luckiest-number).
+
+### 8: The achiever
+
+An 8 is linked with ambition, money and authority. Numerology treats it as a number of material success, with workaholism as the shadow side.
+
+### 9: The humanitarian
+
+Nines are described as generous, idealistic and big-picture. They're often said to care about causes larger than themselves, and to struggle with letting go.
+
+## Why the descriptions feel so accurate
+
+If you read your number and thought "that's me," you're not alone. But it's worth knowing about something psychologists call the Barnum effect, or the Forer effect. In 1948, a psychologist named Bertram Forer gave his students what he said were personal personality readings. Every student actually got the same text. On average they rated it as a very accurate description of themselves.
+
+Life path descriptions work in a similar way. Most people are independent sometimes, sensitive sometimes and stubborn sometimes. A description that's broad and mostly positive will feel personal to almost anyone. That doesn't mean you can't enjoy it. It just means the accuracy comes from how the descriptions are written, not from the number itself.
+
+## Fun ways to use your life path number
+
+Plenty of people use numerology the way others use horoscopes. It can be a conversation starter, a reason to think about your own strengths or a fun thing to compare with friends and family. A few ideas:
+
+- Work out the numbers for everyone at the dinner table and see who agrees with their description.
+- Use the traditional meaning as a prompt for a journal entry about what you value.
+- Compare your life path number with your [name number](/articles/name-numerology-letters-to-numbers) and see if they "match."
+
+What we'd steer away from is making real decisions based on it. Choosing a partner, a job or an investment because of a number is a lot of weight to put on simple addition.
+
+## Try it yourself
+
+Our [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) does a quick version of this math for you. It adds every digit of your birth date together and reduces the total to one number, so it gives the same single digit as the life path method for most dates. If you want the full master number treatment, do the three-part method above by hand. It only takes a minute, and there's something satisfying about checking the math yourself.
+
+For a closer look at the birthday side of things, including how different traditions turn dates into lucky numbers, read [how to find your lucky number from your birthday](/articles/how-to-find-your-lucky-number-from-your-birthday).

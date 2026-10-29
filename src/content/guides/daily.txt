@@ -1,0 +1,33 @@
+## How the daily lucky number works
+
+The Daily Lucky Number gives you a number from 1 to 9, a lucky color and a short positive message for the day. It's built from today's date. The tool combines the year, month and day into a single value, reduces it to one digit the same way numerology reduces numbers and uses that value to pick a color and a message. That means everyone who visits on the same day sees the same daily number, which makes it fun to share with friends.
+
+Because it's based on the date, the number changes at midnight on your device. Come back tomorrow and you'll get a new one.
+
+## What it's for
+
+Think of the daily number as a tiny ritual, like reading a horoscope with your morning coffee. Some people use the message as a prompt for the day. Others like wearing a bit of the lucky color, or setting a reminder at a time that includes their number. It's a small, light way to start the day with something positive.
+
+It isn't a forecast. Nothing about today's number can tell you what will happen, and it won't change your chances in any game. If you're curious about the beliefs behind lucky numbers, our articles on [angel numbers](/articles/angel-numbers-111-222-333) and [why 7 is called the luckiest number](/articles/why-7-is-the-luckiest-number) are good places to start.
+
+## Daily number versus your personal number
+
+Your daily number is the same for everyone and changes every day. A personal number, like the one from the [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) or the [Lucky Name Calculator](/tools/lucky-name-calculator), is unique to you and stays the same. Some numerology fans like to notice when the daily number matches their personal one and treat it as an especially good day. That's just for fun, but it's a nice excuse to celebrate a little.
+
+## Frequently asked questions
+
+### Why is my number the same as my friend's?
+
+The daily number is based only on the date, so everyone gets the same one each day.
+
+### What time does it change?
+
+It changes at midnight according to your device's clock and time zone.
+
+### Is anything about me saved?
+
+No. The number is worked out in your browser using the date. We don't collect any personal information to create it.
+
+### Can I get a different number if I don't like today's?
+
+The daily number stays the same all day by design. If you want a random pick instead, try [Crack the Lucky Egg](/tools/lucky-egg-reveal).

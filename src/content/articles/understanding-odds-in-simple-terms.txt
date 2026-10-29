@@ -1,0 +1,29 @@
+Odds come up all the time: weather forecasts, sports, raffles, board games and lottery tickets. But the numbers can be confusing, and it's easy to get a wrong feeling about how likely something really is. Here's a simple guide.
+
+## Chance as "1 in something"
+
+The simplest way to describe chance is to count. If there's one winning ticket in a raffle of 100 tickets and you hold one, your chance of winning is 1 in 100. As a percentage, that's 1 percent. The formula is: winning outcomes divided by total outcomes.
+
+A few everyday examples:
+
+- Flipping heads on a fair coin: 1 in 2, or 50 percent.
+- Rolling a 6 on a regular die: 1 in 6, or about 16.7 percent.
+- Drawing an ace from a full deck of cards: 4 in 52, or about 7.7 percent.
+
+## Odds versus probability
+
+In everyday speech, people use "odds" and "probability" as if they're the same, but there's a small difference. Probability compares winning outcomes to all outcomes, so rolling a 6 is 1 in 6. Odds compare winning outcomes to losing outcomes, so the odds of rolling a 6 are 1 to 5. Lotteries usually publish "1 in" figures, which are probabilities.
+
+## Why very small chances are hard to picture
+
+Our brains handle numbers like 1 in 10 pretty well. Numbers like 1 in 292 million, which is roughly the chance of winning the Powerball jackpot with one ticket, are almost impossible to imagine. One way to picture it: if you picked one second at random out of more than nine years, that's about how likely it is.
+
+That's why seeing odds visually helps. Our [Simple Odds Calculator](/odds) shows any chance as a percentage and a meter, so you can see how tiny some of them really are.
+
+## Past results don't change the next one
+
+For independent events like coin flips, dice and lottery draws, what happened before has no effect on what happens next. A coin that landed on heads five times in a row still has a 50 percent chance of heads on the next flip. Believing otherwise is called [the gambler's fallacy](/articles/gamblers-fallacy-explained), and it's behind a lot of [lottery myths](/articles/lottery-myths-hot-and-cold-numbers).
+
+## A note on our tools
+
+The odds tools on this site are educational and simplified. They're meant to help you understand chance, not to give gambling or financial advice. If you play games of chance, keep it small, keep it fun and only play if you're of legal age.

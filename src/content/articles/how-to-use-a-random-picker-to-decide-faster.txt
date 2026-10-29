@@ -1,0 +1,58 @@
+How much time have you spent this week deciding things that don't really matter? What to have for dinner. Which show to watch. Which of two nearly identical shirts to buy. These small decisions add up, and they can be oddly exhausting.
+
+A random picker, like a spinning decision wheel or a simple coin flip, is one of the easiest ways to cut that time down. It sounds silly at first, letting chance decide. But used the right way, it's a genuinely useful little tool. Here's how and why it works.
+
+## Why small decisions wear us out
+
+Psychologists have been interested in "decision fatigue" for years. The idea is that making lots of choices in a row can leave people tired and more likely to make poor or impulsive decisions later. Some of the early research on this, like studies on willpower being a limited resource, has been hard to replicate, so the science is more mixed than pop psychology suggests. But most of us know the feeling of standing in front of the fridge, unable to choose, after a long day.
+
+There's also the paradox of choice, an idea made popular by psychologist Barry Schwartz. When we have too many options, we can freeze up, and we often feel less satisfied with whatever we end up choosing because we keep thinking about the alternatives.
+
+A random picker gets around both problems. It turns a choice into a quick result, and since you didn't really "choose," there's less to second-guess.
+
+## When a random picker is a good idea
+
+Random pickers are best for decisions where:
+
+- All the options are acceptable. If you'd be fine with any of them, randomness is a fair way to choose.
+- The stakes are low. Dinner, movie night, which chore to do first, which park to visit.
+- You've been going back and forth for too long. Sometimes any decision is better than no decision.
+- A group can't agree. A wheel is a neutral referee. Nobody can say it played favorites.
+
+They're also great for fairness. Teachers use them to pick students, families use them to decide who gets the front seat and friends use them to choose who pays for coffee.
+
+## When it's not a good idea
+
+Random pickers are a bad fit for anything important. Don't use a wheel to make decisions about your health, your money, your job, legal issues or relationships. Those deserve careful thought, good information and, often, advice from someone you trust.
+
+A good rule: if you'd be upset about one of the possible outcomes, it shouldn't be on the wheel.
+
+## The coin flip trick
+
+Here's a clever way to use a random picker even when you do care about the outcome. Assign your two options to heads and tails, then flip a coin. While the coin is in the air, or right when you see the result, pay attention to how you feel.
+
+If you feel a little disappointed, that tells you something. You actually wanted the other option. If you feel relieved, you've found your answer. Either way, you can go with your gut, not the coin.
+
+This idea gets attributed to all kinds of people online, but it's really just a well-known bit of folk wisdom. It works because it forces you to imagine a decision being made, which helps reveal what you were leaning toward all along.
+
+A 2016 study by economist Steven Levitt found something related. He invited people facing tough decisions, like whether to quit a job, to flip a virtual coin. People whose coin came up "make the change" were more likely to do so, and on average they reported being happier six months later. It was a single study with volunteers, so it's not proof of anything. But it suggests that people who are stuck may lean toward caution more than they need to.
+
+## Tips for using a decision wheel
+
+- Keep the list short. Two to eight options usually works best. Too many and the wheel stops feeling helpful.
+- Only add options you're truly okay with. If you'd veto it, leave it off.
+- Decide the rules before you spin. Agree that the wheel's answer is final, or allow one re-spin. Make the rule first so nobody argues later.
+- Use it for groups. Let everyone add one option, then spin. It's a quick way to settle "where should we eat" without anyone feeling ignored.
+- Make it a game. Spin for weekend plans, a new recipe to try or which board game to play. A little randomness can make routines more fun.
+
+## How random is a random picker?
+
+Online pickers, including ours, use the random number function built into your web browser. It's what computer scientists call a pseudorandom number generator. It uses math to produce sequences that look random and are very hard to predict. For picking dinner, it's more than random enough. For security, like creating passwords, computers use stronger methods. We explain the difference in [how random number generators work](/articles/how-random-number-generators-work).
+
+One thing to watch out for: randomness can produce streaks. If the wheel picks pizza three times in a row, that's not a glitch. It's just how chance works. Our article on [the gambler's fallacy](/articles/gamblers-fallacy-explained) explains why streaks are normal.
+
+## Try it
+
+Our [Random Decision Picker](/tools/random-decision-picker) lets you type in your options and spin a wheel to pick one. It's quick, it's free and it runs right in your browser. Next time you catch yourself spending ten minutes on a five-minute decision, give it a spin.
+
+And if you'd rather leave things up to a bit of fun, try [Crack the Lucky Egg](/tools/lucky-egg-reveal) for a random lucky phrase, or the [Daily Lucky Number](/daily) for a fresh number each day.

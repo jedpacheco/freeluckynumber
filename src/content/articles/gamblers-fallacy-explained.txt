@@ -1,0 +1,71 @@
+Picture a roulette table. The ball has landed on black five times in a row. A lot of people standing around would feel that red is now "due." Some would bet more on red because of it. It feels like common sense.
+
+It's actually one of the most famous mistakes in probability, and it has a name: the gambler's fallacy. Once you understand it, you'll start seeing it everywhere, from casinos to sports to everyday life. Here's a plain-English explanation.
+
+## What the gambler's fallacy is
+
+The gambler's fallacy is the belief that if something random has happened a lot recently, it's less likely to happen next, or that if it hasn't happened in a while, it's more likely to happen soon. In other words, it's the idea that random events try to "balance out" in the short term.
+
+That belief is wrong for independent events. An independent event is one where the outcome isn't affected by what happened before. Coin flips, dice rolls, roulette spins and lottery draws are all independent. The coin has no memory of the last flip. The roulette wheel doesn't keep score.
+
+## The coin flip example
+
+Let's say you flip a fair coin and get heads four times in a row. What are the chances the next flip is heads?
+
+It's still 50 percent. The coin hasn't changed. Nothing about the past four flips affects the fifth.
+
+What confuses people is this. If you asked before any flipping, "What are the chances of getting five heads in a row?" the answer would be 1 in 32, which is about 3 percent. That's pretty unlikely. So when you've already seen four heads, it feels like a fifth would be asking too much.
+
+But the four heads have already happened. They're done. The only question left is about the next single flip, and that's 50/50. The unlikely part is behind you.
+
+## The famous Monte Carlo night
+
+The most famous example happened at the Monte Carlo Casino in 1913. According to the story that's been retold for over a century, the ball on a roulette wheel landed on black 26 times in a row. As the streak went on, gamblers bet more and more heavily on red, sure that the wheel had to switch soon. Many lost a lot of money.
+
+The chance of that exact streak was tiny. But on each individual spin, red and black had the same odds as always. The wheel didn't owe anyone anything. That's why the gambler's fallacy is also called the Monte Carlo fallacy.
+
+## Why our brains fall for it
+
+Psychologists think the gambler's fallacy comes from a reasonable instinct being used in the wrong place.
+
+We know that, over a very long run, a fair coin will come up heads about half the time. That's called the law of large numbers. The mistake is expecting a small sample to look like the big picture. Five flips aren't enough for things to even out. Five thousand flips will usually get close to 50/50, but not because the coin is correcting itself. It's because the early streaks get swamped by thousands of later flips.
+
+There's also something called the representativeness heuristic, described by psychologists Amos Tversky and Daniel Kahneman in the 1970s. We expect random sequences to look random, meaning mixed up, with no long streaks. So when a streak shows up, it feels wrong. In reality, streaks are a completely normal part of randomness. If you flip a coin 100 times, you'll very likely see a run of at least five or six heads or tails in a row.
+
+## The lottery version
+
+In the lottery, the gambler's fallacy shows up as "cold numbers." People notice that a number hasn't been drawn in many weeks and decide it's due. Others go the opposite way and pick "hot" numbers that have come up a lot, which is sometimes called the hot hand fallacy.
+
+Both are mistakes for the same reason. Each draw is independent, and every number has the same chance every time. We break this down further in [lottery myths about hot and cold numbers](/articles/lottery-myths-hot-and-cold-numbers).
+
+## When the past does matter
+
+It's worth knowing when the gambler's fallacy doesn't apply, because not everything is independent.
+
+If you're drawing cards from a deck without putting them back, the past matters. If four aces have already been dealt, there are no aces left. Card counting in blackjack works on exactly this principle.
+
+The weather isn't independent from day to day either. If it's been sunny for a week, tomorrow is more likely to be sunny too, because weather systems take time to move.
+
+And in sports, players' performance can be affected by real things like confidence, fatigue and injuries. Researchers have argued for decades about whether the "hot hand" in basketball is real. Recent studies suggest there may be a small real effect, though much smaller than fans tend to believe.
+
+So the rule is: if the events are truly independent, the past tells you nothing about the next result. If they're connected, it might.
+
+## How to spot it in everyday life
+
+You'll hear the gambler's fallacy in all kinds of places:
+
+- "We've had three girls, so the next baby is bound to be a boy." The chance is still roughly 50/50.
+- "I've lost the last five hands, so I'm due for a win." Not at a fair table.
+- "This slot machine hasn't paid out all night, so it's ready to hit." Modern slots use random number generators, so each spin is independent.
+
+Once you notice it, it's hard to un-notice.
+
+## Why it's worth understanding
+
+The gambler's fallacy can cost people real money, especially when it leads to "chasing losses," which means betting more to win back what you've lost because you feel a win is coming. That's one of the warning signs of problem gambling. If that sounds familiar, free and confidential help is available in the U.S. by calling or texting 1-800-GAMBLER.
+
+Understanding it can also just make you a sharper thinker. It helps with reading news stories about statistics, making sense of streaks in sports and keeping your expectations realistic.
+
+## See it for yourself
+
+Want to try it out? Use our [Random Decision Picker](/tools/random-decision-picker) with two options, "heads" and "tails," and spin it twenty times. Write down the results. You'll almost certainly see streaks that feel suspicious, even though every spin is fair. Then play with our [Simple Odds Calculator](/odds) to get a feel for how small chances add up. And if you're curious how randomness works behind the scenes, read [how random number generators work](/articles/how-random-number-generators-work).

@@ -1,0 +1,35 @@
+## How Crack the Lucky Egg works
+
+Tap or click the egg to crack it open, and a lucky phrase pops out. Each time you crack a new egg, the tool picks a phrase at random from a collection of short, upbeat messages. There's no right or wrong result, and nothing is being predicted. It's a small moment of fun, a bit like opening a fortune cookie.
+
+## Where the idea comes from
+
+People have used little rituals of chance for good luck for a very long time. Fortune cookies, which are an American invention that likely started in California in the early 1900s, are probably the most famous example. Many cultures also have traditions around eggs, which often stand for new beginnings, from decorated Easter eggs to red eggs given to celebrate a new baby in Chinese tradition. Cracking an egg for a fresh message mixes those two ideas together.
+
+## What it's for
+
+The lucky egg is a quick pick-me-up. Some people use it as a daily prompt, the way others pull a card or read a quote of the day. Some use it as a playful way to start a conversation or break the ice in a group chat. Teachers and parents sometimes use it as a fun reward or a positive start to the morning.
+
+If you want something a little more personal, the [Daily Lucky Number](/daily) gives everyone the same fresh number each day, and the [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) gives you a number that's yours.
+
+## A friendly reminder
+
+The messages are meant to be encouraging, not predictions. They can't tell you what will happen, and you shouldn't make real decisions based on them. If you're facing a choice between a few everyday options, though, the [Random Decision Picker](/tools/random-decision-picker) is a fun way to settle it.
+
+## Frequently asked questions
+
+### Can I crack more than one egg?
+
+Yes. Crack as many as you like. Each one gives a random phrase, so you might see repeats.
+
+### Why did I get the same phrase twice?
+
+The phrase is picked at random each time, and repeats are a normal part of randomness. Our article on [the gambler's fallacy](/articles/gamblers-fallacy-explained) explains why streaks happen.
+
+### Is anything I do saved?
+
+No. The egg runs in your browser, and nothing you do is saved or sent to us.
+
+### Can I share my phrase?
+
+Yes. Use the share buttons to copy your result or send it by text or email.

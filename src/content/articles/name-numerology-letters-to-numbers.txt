@@ -1,0 +1,79 @@
+In numerology, your name has a number just like your birthday does. Every letter gets a value, you add them up and you reduce the total to a single digit. People who follow numerology say this "name number" describes how you come across to others, while your birthday number describes your deeper nature.
+
+Whether or not you believe any of that, the process itself is a neat little puzzle. This guide walks through how letters turn into numbers, the two main systems people use and a few of the extra numbers numerologists like to pull out of a name.
+
+## The basic idea
+
+Numerology treats letters as stand-ins for numbers. The idea isn't new. Hebrew, Greek and Arabic all used letters as numerals in ancient times, so every word could also be read as a number. In Jewish tradition, this practice is called gematria. Greeks called it isopsephy. Modern Western name numerology borrows the general idea and applies it to the English alphabet.
+
+## The Pythagorean system
+
+This is the most common method today, named after the Greek mathematician Pythagoras, though it was really developed by numerology writers in the late 1800s and 1900s. You line up the alphabet in rows of nine:
+
+- 1: A, J, S
+- 2: B, K, T
+- 3: C, L, U
+- 4: D, M, V
+- 5: E, N, W
+- 6: F, O, X
+- 7: G, P, Y
+- 8: H, Q, Z
+- 9: I, R
+
+So A is 1, B is 2 and so on up to I, which is 9. Then J starts again at 1.
+
+### An example
+
+Let's take the name ROSA.
+
+R is 9, O is 6, S is 1 and A is 1.
+
+9 + 6 + 1 + 1 = 17, and 1 + 7 = 8.
+
+So ROSA has a name number of 8.
+
+## The Chaldean system
+
+The Chaldean system is older in spirit and is said to come from ancient Babylon, though its modern form was popularized in the 20th century, especially by a famous palm reader known as Cheiro. It uses the numbers 1 to 8 only, because 9 is considered sacred and isn't assigned to any letter. The letter values are also arranged differently, based on sound rather than alphabetical order.
+
+In Chaldean numerology, A, I, J, Q and Y are 1. B, K and R are 2. C, G, L and S are 3. D, M and T are 4. E, H, N and X are 5. U, V and W are 6. O and Z are 7. F and P are 8.
+
+Using the Chaldean system, ROSA becomes 2 + 7 + 3 + 1 = 13, which reduces to 4. That's a different answer from the Pythagorean 8, which is a good reminder that numerology is a set of traditions, not one fixed method.
+
+## The extra numbers in a name
+
+Numerologists often pull three separate numbers out of a full name.
+
+### Expression or destiny number
+
+This uses every letter in your full birth name. It's said to reflect your natural talents and how you approach life.
+
+### Soul urge or heart's desire number
+
+This uses only the vowels. It's said to reflect what you want deep down. Most systems count A, E, I, O and U as vowels, and some count Y as a vowel when it sounds like one, as in "Lynn."
+
+### Personality number
+
+This uses only the consonants. It's said to describe the side of yourself you show the world.
+
+So for ROSA: the vowels O and A give 6 + 1 = 7, the soul urge number. The consonants R and S give 9 + 1 = 10, which reduces to 1, the personality number.
+
+## Which name should you use?
+
+Traditional numerologists say you should use your full name exactly as it appears on your birth certificate, including middle names. But plenty of people prefer to use the name they actually go by. Some compare both, and say that changing your name, through marriage or a nickname, changes the energy you present. That's an interesting idea to play with, even if it's not something you can measure.
+
+## What the numbers are said to mean
+
+The meanings for name numbers are the same as for [life path numbers](/articles/what-your-life-path-number-says-about-you): 1 is the leader, 2 the peacemaker, 3 the communicator, 4 the builder, 5 the adventurer, 6 the caretaker, 7 the thinker, 8 the achiever and 9 the humanitarian. If you land on 11, 22 or 33 before reducing, many numerologists treat those as [master numbers](/articles/master-numbers-11-22-33).
+
+## A quick reality check
+
+Name numerology has no scientific support. There's no evidence that the letters in your name shape your personality or your future. The descriptions also tend to be broad and positive enough that almost anyone can relate to them, which psychologists call the Barnum effect.
+
+There is a small, real research area about names called "implicit egotism," which suggests people may have a slight preference for things that resemble their own name. But even that work is debated, and it has nothing to do with number values.
+
+So treat your name number like a fun fact. It can be a conversation starter, a creative prompt or a way to feel a little more connected to an old tradition. Just don't rename your baby or your business because of it unless you genuinely like the name.
+
+## Try it yourself
+
+Our [Lucky Name Calculator](/tools/lucky-name-calculator) gives you a quick name number. It uses the simplest letter values, A = 1 through Z = 26, adds them all up and reduces the total. Because of how digit sums work, that gives the same final digit as the Pythagorean chart above, so you can use it to check your hand math. Then compare it with your birthday number from the [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) and see if they tell the same story.

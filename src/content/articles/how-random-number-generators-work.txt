@@ -1,0 +1,21 @@
+Random number generators are behind a lot of everyday things: shuffling a playlist, dealing cards in a phone game, picking a raffle winner or choosing the slice our decision wheel lands on. Here's a short, plain explanation of how they work.
+
+## Two kinds of randomness
+
+Computers are built to follow instructions exactly, which makes true randomness tricky for them. So there are two main approaches.
+
+The first is a pseudorandom number generator, or PRNG. It starts from a value called a seed and runs it through a math formula to produce a long sequence of numbers that look random and pass statistical tests for randomness. If you knew the seed and the formula, you could predict the sequence, but in practice that's very hard. Most everyday software uses this kind.
+
+The second is a true random number generator, which measures something physical and unpredictable, like tiny electrical noise in a chip or the timing of keystrokes. These are used when unpredictability really matters, such as creating encryption keys.
+
+## What our tools use
+
+The tools on LuckyVibe Daily use JavaScript's built-in random function, Math.random, which is a pseudorandom generator built into your web browser. It's more than random enough for picking dinner, cracking a lucky egg or generating a fun set of numbers. It isn't designed for security, so it shouldn't be used to create passwords. Browsers offer a separate, stronger function for that.
+
+## Random doesn't mean evenly spread
+
+One thing that surprises people is that random results often look streaky. If you spin a two-option wheel ten times, you might get the same answer four times in a row. That's normal. Truly random sequences have clusters and runs, and expecting them to alternate neatly is a common mistake. We explain it in [the gambler's fallacy explained](/articles/gamblers-fallacy-explained).
+
+## What random tools can and can't do
+
+A random generator gives every option a fair chance. It can't predict anything, and it can't make one result more likely than another. That's why our [Lottery Number Generator](/tools/lottery-number-generator) is for fun only: its picks have exactly the same odds as any other numbers. For everyday choices, try the [Random Decision Picker](/tools/random-decision-picker), and read [how to use a random picker to make decisions faster](/articles/how-to-use-a-random-picker-to-decide-faster) for tips.

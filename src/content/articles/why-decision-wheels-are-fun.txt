@@ -1,0 +1,25 @@
+There's something oddly satisfying about a spinning wheel. You type in a few options, press spin and watch it slow down, slice by slice, until it settles on an answer. A simple choice suddenly feels like a small event. Here's why decision wheels are so much fun, and where they're actually useful.
+
+## Suspense turns a choice into a moment
+
+When you pick something yourself, it's over in a second. With a wheel, there's a short burst of anticipation while it spins. That little bit of suspense is the same thing that makes game shows and prize wheels fun to watch. Psychologists have found that uncertainty about a reward can make it more exciting, and a spinning wheel is a harmless way to enjoy that feeling.
+
+## It takes the pressure off
+
+Small decisions can be surprisingly draining, especially at the end of a long day. When a wheel picks dinner, nobody has to be the one who decided. If the result isn't great, you can laugh about it and blame the wheel. That makes it especially handy for couples, families and groups of friends who all say "I don't mind, you pick."
+
+## It's fair, and everyone can see it
+
+When a group can't agree, a wheel is a neutral referee. Everyone can add an option and watch the spin. Teachers use wheels to choose who answers next, families use them to decide who gets the front seat and friends use them to settle who picks the movie.
+
+## It can tell you what you really want
+
+Here's a neat side effect. Sometimes the wheel lands on an option and you feel a twinge of disappointment. That reaction tells you that you were quietly hoping for something else. We explain this trick in [how to use a random picker to make decisions faster](/articles/how-to-use-a-random-picker-to-decide-faster).
+
+## Keep it to small stuff
+
+Decision wheels are made for light, low-stakes choices: food, movies, chores, games or weekend plans. They're not a good way to make important personal, medical, legal or financial decisions. Those deserve real thought.
+
+## Give it a spin
+
+Try our [Random Decision Picker](/tools/random-decision-picker). Add your options, spin and see where it lands. Curious how the randomness works behind the scenes? Read [how random number generators work](/articles/how-random-number-generators-work).

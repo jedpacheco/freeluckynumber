@@ -1,0 +1,29 @@
+## How the lottery number generator works
+
+This tool creates random number sets in the formats of popular U.S. lottery games, like Powerball, Mega Millions and Florida Lotto, or a custom format you set up yourself. When you pick a game, the generator knows how many main numbers to draw, the range they come from and whether there's a separate bonus ball. It then uses your browser's random number generator to pick numbers without repeats and sorts them so they're easy to read.
+
+That's all it does. It picks numbers at random, the same way a quick pick at a store terminal does.
+
+## What it can't do
+
+No tool can predict lottery results or improve your chances of winning. In a fair lottery, every combination has exactly the same chance of being drawn. A set from this generator is no more and no less likely to win than numbers you choose yourself, your birthday or 1, 2, 3, 4, 5, 6.
+
+To give a sense of scale, the published odds of winning the jackpot with one ticket are about 1 in 292.2 million for Powerball and about 1 in 290.5 million for Mega Millions. Smaller prizes have better odds, but across all tickets, players get back less than they spend on average. That's how lotteries are designed. Our [Simple Odds Calculator](/odds) can help you picture numbers like these.
+
+## Why use a random generator at all?
+
+Some people just don't want to think about which numbers to pick. Others like that random picks are spread across the whole number range. That doesn't change your chance of winning, but it can make it less likely you'd share a jackpot with lots of other people who chose popular numbers like birthdays. We explain this in [do quick picks or chosen numbers win more often](/articles/quick-picks-vs-chosen-numbers) and [birthday numbers and the lottery](/articles/birthday-numbers-and-the-lottery).
+
+## Play responsibly
+
+Lottery tickets should be a small entertainment expense, never a way to solve money problems. Set a budget you won't miss, don't chase losses and only play if you're of legal age where you live. Game rules and formats can change, so always check your state lottery's official website before buying a ticket. If gambling stops feeling like fun, free and confidential help is available in the U.S. by calling or texting 1-800-GAMBLER.
+
+## Frequently asked questions
+
+### Are "hot" or "cold" numbers better?
+
+No. Past draws don't affect future ones. See [lottery myths about hot and cold numbers](/articles/lottery-myths-hot-and-cold-numbers) and [the gambler's fallacy](/articles/gamblers-fallacy-explained).
+
+### Does this site sell tickets?
+
+No. We don't sell tickets or take bets. This is an entertainment and learning tool only.

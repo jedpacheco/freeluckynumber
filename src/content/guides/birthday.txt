@@ -1,0 +1,33 @@
+## How the birthday lucky number works
+
+This calculator uses one of the oldest tricks in numerology: the digit sum. It takes your full birth date, adds every digit together, then keeps adding the digits of the result until only one digit is left. That final digit, from 1 to 9, is your birthday lucky number. The tool then pairs it with a lucky color, a lucky day and a short personality line drawn from traditional numerology descriptions.
+
+Here's an example. For July 4, 1991, the digits are 1, 9, 9, 1, 0, 7, 0 and 4. They add up to 31. Then 3 + 1 = 4, so the lucky number is 4. You can check any result by hand in under a minute.
+
+## How it relates to the life path number
+
+In numerology, the main birthday number is called the life path number. The traditional method reduces the month, day and year separately, then adds them. For most dates, that gives the same single digit as our quick method. The difference shows up with master numbers like 11 and 22, which the traditional method keeps instead of reducing. If you'd like to try the full version, our guide to [the life path number](/articles/what-your-life-path-number-says-about-you) walks through it step by step.
+
+## What it's for
+
+The birthday lucky number is a fun, personal number you can use however you like. People use theirs as a favorite number, a conversation starter or a small ritual, like wearing their lucky color on a big day. It's also a nice thing to compare with friends and family.
+
+It isn't a prediction, and it won't change your odds in any game of chance. Numerology is a tradition and a belief system, not a science, so enjoy your result as exactly that.
+
+## Frequently asked questions
+
+### Is my information saved?
+
+No. The calculation happens in your browser, and the date you type isn't sent to us.
+
+### Why did my friend get the same number?
+
+There are only nine possible results, so plenty of people share a number. Roughly one in nine people will match yours.
+
+### What if I don't know my exact birth date?
+
+Any meaningful date works. Some people use an anniversary or the day they adopted a pet.
+
+### Can I use this number for the lottery?
+
+You can, but it won't help you win. Every lottery combination has the same chance. Read [birthday numbers and the lottery](/articles/birthday-numbers-and-the-lottery) to see why birthdays can actually mean sharing a prize.

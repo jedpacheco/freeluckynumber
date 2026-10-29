@@ -1,0 +1,74 @@
+Your birthday is one of the few numbers that's completely yours. It doesn't change, it's easy to remember and it already has meaning to the people who love you. So it makes sense that most lucky number traditions start there.
+
+There's more than one way to turn a birthday into a lucky number, though. Some methods use the whole date, some only use the day, and some use astrology or the Chinese calendar. This guide goes through the most common approaches, shows the math and explains what each one is based on. As always, these are traditions and fun, not predictions.
+
+## Method 1: Add up all the digits
+
+This is the simplest method and the one our [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) uses. You write out the full date, add every digit together, and keep adding until you get a single digit.
+
+Let's try March 15, 1988. Written as numbers, that's 3, 15 and 1988, or the digits 0, 3, 1, 5, 1, 9, 8, 8.
+
+Add them up: 0 + 3 + 1 + 5 + 1 + 9 + 8 + 8 = 35.
+
+Then add the digits of 35: 3 + 5 = 8.
+
+So the lucky number for March 15, 1988 is 8.
+
+This method is quick, and for most dates it gives you the same final number as the more traditional life path method.
+
+## Method 2: The numerology life path number
+
+In numerology, the main birthday number is the life path number. You reduce the month, the day and the year separately first, then add those three results together and reduce again.
+
+Using March 15, 1988 again:
+
+The month is 3.
+
+The day is 15, and 1 + 5 = 6.
+
+The year is 1988, and 1 + 9 + 8 + 8 = 26, then 2 + 6 = 8.
+
+Now 3 + 6 + 8 = 17, and 1 + 7 = 8. Same answer as Method 1.
+
+Where the methods can differ is with master numbers. If any step lands on 11, 22 or 33, numerologists keep it instead of reducing it. That's why some people get an 11 using this method when a quick digit sum would have given them a 2. We explain these in [master numbers 11, 22 and 33](/articles/master-numbers-11-22-33), and the full life path method is in [what your life path number says about you](/articles/what-your-life-path-number-says-about-you).
+
+## Method 3: Just the day you were born
+
+Some people keep it simple and use the day of the month as their lucky number. If you were born on the 23rd, your lucky number is 23. Some numerologists call this the "birthday number" and say it describes a special talent, separate from the life path.
+
+If you want a single digit, you can reduce it: 2 + 3 = 5. But plenty of people like keeping the full number. It's easy to remember and it already feels personal.
+
+## Method 4: Your zodiac sign
+
+Western astrology links each sign with a few lucky numbers, often based on the sign's position in the zodiac or its ruling planet. If you were born on March 15, you're a Pisces, and popular astrology often lists 3, 7 and 12 for Pisces. See the full list in [lucky numbers for each zodiac sign](/articles/lucky-numbers-for-each-zodiac-sign).
+
+## Method 5: The Chinese zodiac
+
+In the Chinese zodiac, your birth year is linked to one of twelve animals, and each animal has traditional lucky numbers. For example, people born in the Year of the Dragon are often said to have 1, 6 and 7 as lucky numbers, while the Year of the Rabbit is linked with 3, 4 and 6. Keep in mind that the Chinese year starts on the Lunar New Year, which falls in late January or February, so someone born in early January belongs to the previous year's animal.
+
+## Which method should you use?
+
+Honestly, whichever one you like best. None of them is more accurate than the others, since none of them has any proven effect on luck. They're different traditions with different starting points.
+
+Some people use several and see if any numbers repeat. If your digit sum, your zodiac list and your birthday all point to 3, that might feel like a sign. Statistically, with this many methods and only nine single digits, overlaps are pretty common. But that's part of the fun.
+
+## A quick way to check your math
+
+When you're adding up digits, it's easy to slip. Here's a neat trick. The final single digit you get by repeatedly adding digits is the same as the remainder when you divide the original number by 9, except that a remainder of 0 means your answer is 9. Mathematicians call this the digital root.
+
+For March 15, 1988, the digits added up to 35, and 35 divided by 9 leaves a remainder of 8. That matches. It's an old trick that accountants once used to check long columns of numbers, called "casting out nines."
+
+## What people do with their birthday number
+
+People use their lucky number in all kinds of small ways:
+
+- Picking a jersey number, a locker or a seat.
+- Setting a phone passcode or alarm time (though maybe not your bank PIN, since birthdays are easy for others to guess).
+- Choosing a date for something important, like a move or a first day at a new job.
+- Just having a fun fact about yourself to share at a party.
+
+One place your birthday number won't help is the lottery. Picking numbers from birth dates doesn't change your odds at all, and since so many people do it, it can mean sharing a prize with more people if you do win. We cover that in [birthday numbers and the lottery](/articles/birthday-numbers-and-the-lottery).
+
+## Try it now
+
+Pop your date into the [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) to get your number along with a lucky color and lucky day. Then try the [Lucky Name Calculator](/tools/lucky-name-calculator) and see whether your name and your birthday agree. If they don't, you just get to choose which one you like better.

@@ -1,0 +1,63 @@
+If you've ever looked at a lottery website or a gas station display, you've probably seen lists of "hot" and "cold" numbers. Hot numbers are the ones that have come up a lot in recent draws. Cold numbers are the ones that haven't shown up in a while. Some people pick hot numbers because they think the streak will continue. Others pick cold numbers because they think those are "due."
+
+Here's the short version: neither strategy changes your odds. Not even a little. This article explains why, and goes through a few other common lottery myths along the way. Our goal isn't to spoil anyone's fun. It's to make sure you know what you're actually paying for when you buy a ticket.
+
+## How a lottery draw actually works
+
+Most big lotteries draw numbered balls from a machine, or use a certified random number generator. Either way, the system is designed and tested so that every ball has the same chance of being picked each time. Lottery commissions use independent auditors, inspect the balls and weigh them, and often rotate between several machines and ball sets.
+
+The most important idea is this: each draw is independent. The machine has no memory. The balls don't know what happened last Tuesday. A number that came up three times in a row has the same chance of being drawn tonight as a number that hasn't appeared in a year.
+
+## Myth 1: Hot numbers are on a streak
+
+When a number comes up often over a short period, it can look like a trend. But in any random process, some outcomes will cluster just by chance. If you flip a coin 100 times, you'll almost certainly see streaks of five or six heads in a row somewhere. That doesn't mean the coin prefers heads.
+
+Lotteries work the same way. Over a few dozen draws, some numbers will come up more than others purely by accident. Over thousands of draws, the counts even out. Picking a hot number is betting that randomness has a memory, and it doesn't.
+
+## Myth 2: Cold numbers are due
+
+This is the flip side, and it's an example of a famous mistake called the gambler's fallacy. It's the belief that if something hasn't happened in a while, it's more likely to happen soon. It feels logical, but it isn't true for independent events. We explain it in detail in [the gambler's fallacy explained in plain English](/articles/gamblers-fallacy-explained).
+
+A cold number isn't building up pressure. It isn't owed anything. Its chance in the next draw is exactly the same as every other number's.
+
+## Myth 3: Some combinations are more likely than others
+
+People often avoid tickets like 1, 2, 3, 4, 5, 6 because they "look" too unlikely. In fact, that combination has exactly the same chance of winning as any other set of six numbers. It just feels unlikely because it has a pattern, and most random combinations don't.
+
+What is true is that some combinations are more popular. Lots of people play patterns, birthdays and numbers from movies or TV shows. That doesn't affect your chance of winning, but it does affect how many people you might have to share a jackpot with. We go into that in [birthday numbers and the lottery](/articles/birthday-numbers-and-the-lottery).
+
+## Myth 4: Systems and software can predict winners
+
+You'll find books, apps and websites claiming to have a system for picking winning numbers. Some use statistics on past draws, some use "wheeling" systems that cover lots of combinations, and some use astrology or numerology.
+
+None of them can predict a fair lottery draw. Wheeling systems can organize how you spread numbers across several tickets, but you're still just buying more combinations, and each one has the same tiny chance. If someone really had a way to predict lottery results, they wouldn't be selling it for $29.99.
+
+## Myth 5: Buying in the same store improves your chances
+
+Some stores advertise that they've sold several winning tickets. That's usually because they sell a lot of tickets. A busy store near a highway will produce more winners over time simply because more people buy there. Your ticket from that store has the same odds as one bought anywhere else.
+
+## What are the real odds?
+
+The numbers are worth seeing written out. These are the published odds of winning the top prize with one ticket in some well-known U.S. games:
+
+- Powerball: about 1 in 292.2 million.
+- Mega Millions: about 1 in 290.5 million, after the game's changes in 2025.
+- Florida Lotto: about 1 in 23 million.
+
+To put 1 in 292 million in perspective, imagine picking one specific second at random from more than nine years of seconds. Smaller prizes have much better odds, but they're still set up so that, on average, players get back less than they spend. That's how lotteries raise money for states and pay for prizes.
+
+If you'd like to play around with odds yourself, our [Simple Odds Calculator](/odds) shows chances as a percentage and a visual meter.
+
+## So how should you pick numbers?
+
+Any way you like. Birthdays, anniversaries, a random generator, your lucky number, your dog's age. Since every combination has the same odds, the method you use for picking numbers is really just a matter of personal enjoyment.
+
+Our [Lottery Number Generator](/tools/lottery-number-generator) creates random number sets in the formats of popular U.S. games. It's handy if you don't want to think about it, but it doesn't make any set more likely to win. Nothing can.
+
+## Play for fun, and keep it small
+
+The healthiest way to think about a lottery ticket is as a small entertainment purchase, like a movie ticket. You pay a couple of dollars for the fun of imagining what you'd do with the money. If that's how you approach it, there's nothing wrong with playing.
+
+Set a budget you won't miss, never chase losses and don't buy tickets with money you need for bills. Only play if you're of legal age where you live. If gambling is starting to feel like more than a game, free and confidential help is available in the U.S. by calling or texting 1-800-GAMBLER.
+
+For more on how random picks compare with numbers you choose yourself, read [do quick picks or chosen numbers win more often](/articles/quick-picks-vs-chosen-numbers).

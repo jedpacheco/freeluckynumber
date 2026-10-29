@@ -1,0 +1,31 @@
+## How the lucky name calculator works
+
+This tool turns a name into a single number using simple letter values. Each letter gets a number based on its place in the alphabet: A is 1, B is 2, C is 3 and so on up to Z, which is 26. Spaces, numbers and punctuation are ignored. The calculator adds up all the letter values, then adds the digits of that total together until there's one digit left. That's your lucky name number. It also gives you a lucky color and a short message to go with it.
+
+For example, the name ANA is 1 + 14 + 1 = 16. Then 1 + 6 = 7, so ANA has a lucky name number of 7.
+
+## How this compares with name numerology
+
+Traditional Western numerology uses what's called the Pythagorean chart, where the alphabet is split into rows of nine and every letter gets a value from 1 to 9. It sounds different from our A = 1 to Z = 26 method, but it always ends on the same final digit, because of a neat property of digit sums. So you can use this tool to check numerology math you've done by hand. Another tradition, the Chaldean system, assigns letter values by sound and often gives a different answer. Our guide to [name numerology](/articles/name-numerology-letters-to-numbers) explains both.
+
+## What it's for
+
+People use a name number for fun: comparing names with friends, trying out baby name ideas, checking what a nickname adds up to or seeing whether their name and their [birthday number](/tools/birthday-lucky-number) agree. Numerology says your name number reflects how you come across to others, but that's a traditional belief rather than a proven fact. Treat the result as a playful bit of trivia.
+
+## Frequently asked questions
+
+### Should I use my full name or the name I go by?
+
+Traditional numerologists use your full birth name. Many people prefer the name they actually use. Try both and see which you like.
+
+### Does capitalization matter?
+
+No. Upper and lower case letters get the same value.
+
+### What about accented letters or names in other alphabets?
+
+The calculator only counts the letters A to Z. Accented letters and other alphabets are skipped, so you may want to type the closest plain-letter spelling.
+
+### Is my name stored anywhere?
+
+No. Everything runs in your browser, and nothing you type is sent to us.
