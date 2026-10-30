@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
 import App from "./App.jsx";
+import "@fontsource/young-serif";
+import "@fontsource-variable/outfit";
 import "./styles.css";
 
 // The HTML for each route is prerendered at build time (see scripts/prerender.mjs).

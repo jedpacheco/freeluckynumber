@@ -1441,3 +1441,83 @@ main {
 .related-links { list-style: none; padding-left: 0; }
 .related-links li { margin-bottom: 0.4rem; }
 .article-meta { font-size: 0.9rem; opacity: 0.75; }
+
+/* ===== Redesign: typography + brand ===== */
+:root {
+  --lv-font-display: "Young Serif", Georgia, "Times New Roman", serif;
+  --lv-font-body: "Outfit Variable", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --lv-gold: #f7c548;
+}
+body {
+  font-family: var(--lv-font-body);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+h1, h2, h3, .hero-title, .display-font {
+  font-family: var(--lv-font-display);
+  font-optical-sizing: auto;
+  font-weight: 650 !important;
+  letter-spacing: -0.02em !important;
+  line-height: 1.08;
+}
+h4, h5, h6 { font-family: var(--lv-font-body); font-weight: 750; }
+.hero-title {
+  font-size: clamp(2.6rem, 6vw, 5rem);
+  line-height: 1.02 !important;
+  margin-bottom: 1.25rem;
+}
+p, li { line-height: 1.7; }
+.eyebrow { font-weight: 700; letter-spacing: 0.16em; font-size: 0.76rem; }
+.nav-link { font-weight: 600; font-size: 0.97rem; margin-left: 0.6rem; }
+.btn { font-family: var(--lv-font-body); font-weight: 700 !important; letter-spacing: 0.01em; border-radius: 999px; }
+
+.brand-mark {
+  width: 44px; height: 44px; flex: none;
+  filter: drop-shadow(0 4px 14px rgba(247, 197, 72, 0.35));
+  transition: transform 0.3s ease;
+}
+.navbar-brand:hover .brand-mark { transform: rotate(-8deg) scale(1.05); }
+.brand-text strong {
+  font-family: var(--lv-font-display);
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: -0.015em;
+  color: #fff;
+}
+.brand-text strong em {
+  font-style: italic;
+  font-weight: 600;
+  background: linear-gradient(120deg, #ffe48a, #f5b938 60%, #e8962a);
+  -webkit-background-clip: text; background-clip: text;
+  color: transparent;
+  padding-right: 0.05em;
+}
+.navbar-brand .brand-text small {
+  font-family: var(--lv-font-body);
+  font-weight: 600;
+  font-size: 0.66rem;
+  letter-spacing: 0.32em;
+  margin-top: 0.2rem;
+}
+
+/* Bigger brand (approx +30%) */
+.brand-mark { width: 58px; height: 58px; }
+.brand-text strong { font-size: 1.95rem; }
+.navbar-brand .brand-text small { font-size: 0.78rem; margin-top: 0.3rem; }
+.navbar-brand { gap: 0.7rem !important; }
+@media (max-width: 575px) {
+  .brand-mark { width: 50px; height: 50px; }
+  .brand-text strong { font-size: 1.7rem; }
+  .navbar-brand .brand-text small { font-size: 0.7rem; }
+}
+
+/* Final: Young Serif + Outfit tuning */
+body { font-size: 1.125rem; font-weight: 400; line-height: 1.65; letter-spacing: 0.005em; }
+p, li, small, .hero-copy, .section-copy { font-weight: 400; }
+h1, h2, h3, .hero-title, .brand-text strong, .brand-text strong em { font-weight: 400 !important; }
+h1, h2, h3, .hero-title { letter-spacing: -0.025em !important; line-height: 1.1 !important; }
+.hero-title { font-size: clamp(2.4rem, 5.4vw, 4.4rem); }
+.nav-link, .eyebrow, .btn, .navbar-brand .brand-text small, label { font-weight: 500 !important; }
+.btn { font-weight: 600 !important; }
