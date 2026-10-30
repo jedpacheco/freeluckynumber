@@ -1,7 +1,7 @@
 import PageHero from "../components/PageHero.jsx";
 
 // PLACEHOLDER: change CONTACT_EMAIL to a real inbox you check before publishing.
-export const CONTACT_EMAIL = "contact@freeluckynumber.com";
+export const CONTACT_EMAIL = "contactfreeluckynumber@gmail.com";
 
 function ContactPage() {
   return (
