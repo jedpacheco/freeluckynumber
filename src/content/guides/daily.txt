@@ -1,8 +1,12 @@
 ## How the daily lucky number works
 
-The Daily Lucky Number gives you a number from 1 to 9, a lucky color and a short positive message for the day. It's built from today's date. The tool combines the year, month and day into a single value, reduces it to one digit the same way numerology reduces numbers and uses that value to pick a color and a message. That means everyone who visits on the same day sees the same daily number, which makes it fun to share with friends.
+The number and the color are built from the date on your device. The tool makes a seed with year + month × 17 + day × 31, reduces that seed to a single digit from 1 to 9, and uses the remainder of the seed to pick a color from a fixed list. Everyone whose device is on that same local date gets the same number and the same color.
 
-Because it's based on the date, the number changes at midnight on your device. Come back tomorrow and you'll get a new one.
+The weekday shown after you reveal is just the name of that date. It is not a second lucky day.
+
+The short message is the part that is random. Reveal picks one line from a fixed list of eight, using the browser's random function. Another click can show a different line, even though the number stays put. Two friends can share the number and still see different wording.
+
+The number changes at midnight on your device. Near midnight, a friend in another time zone can still be on yesterday's number.
 
 ## What it's for
 
@@ -18,7 +22,7 @@ Your daily number is the same for everyone and changes every day. A personal num
 
 ### Why is my number the same as my friend's?
 
-The daily number is based only on the date, so everyone gets the same one each day.
+The number and color are based only on the local date, so everyone on that date gets the same ones. The message is random, so the wording can differ.
 
 ### What time does it change?
 
@@ -30,4 +34,4 @@ No. The number is worked out in your browser using the date. We don't collect an
 
 ### Can I get a different number if I don't like today's?
 
-The daily number stays the same all day by design. If you want a random pick instead, try [Crack the Lucky Egg](/tools/lucky-egg-reveal).
+The number and color stay the same all day by design. The message can change each time you press Reveal. For a fully random phrase, try [Crack the Lucky Egg](/tools/lucky-egg-reveal). The formulas are also listed in [how we check our work](/methodology).

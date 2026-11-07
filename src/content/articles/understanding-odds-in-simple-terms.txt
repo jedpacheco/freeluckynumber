@@ -16,7 +16,7 @@ In everyday speech, people use "odds" and "probability" as if they're the same, 
 
 ## Why very small chances are hard to picture
 
-Our brains handle numbers like 1 in 10 pretty well. Numbers like 1 in 292 million, which is roughly the chance of winning the Powerball jackpot with one ticket, are almost impossible to imagine. One way to picture it: if you picked one second at random out of more than nine years, that's about how likely it is.
+Our brains handle numbers like 1 in 10 pretty well. The published chance of matching the Powerball jackpot with one play is 1 in 292,201,338 ([Powerball prize chart](https://www.powerball.com/powerball-prize-chart)). 292,201,338 seconds is about 9.26 years of 365.25-day years. The same chart's chance of winning any prize is 1 in 24.87, which is a different and much larger chance, mostly of a small prize.
 
 That's why seeing odds visually helps. Our [Simple Odds Calculator](/odds) shows any chance as a percentage and a meter, so you can see how tiny some of them really are.
 

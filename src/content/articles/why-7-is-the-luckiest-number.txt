@@ -1,12 +1,14 @@
-Ask a room full of people to name a lucky number and you'll hear "seven" more than anything else. It's on slot machines, in fairy tales and in more song titles than anyone could count. When the British math writer Alex Bellos ran a large online survey in 2014 asking people to name their favorite number, more than 30,000 people answered, and 7 came out on top by a clear margin.
+Ask a room full of people to name a lucky number and you'll hear "seven" more than anything else. It's on slot machines, in fairy tales and in more song titles than anyone could count. In 2014 the math writer Alex Bellos asked people online for their favourite number. He reported in The Guardian that 44,000 people took part and that almost 4,000 of them chose 7, which put 7 first. He also wrote that the survey was self-selecting, so it is not a laboratory experiment. It says what that group of volunteers liked. It does not show that 7 changes what happens to someone. [Alex Bellos, The Guardian, 12 April 2014](https://www.theguardian.com/science/2014/apr/13/favourite-number-survey-psychology).
 
-So why 7? There isn't one neat answer. It's more like a pile of reasons that have been building up for thousands of years, from the sky, from religion, from how our brains handle information and from plain old repetition. Let's go through the main ones.
+So why 7? There isn't one neat answer. It's more like a pile of reasons that have been building up for thousands of years, from the sky, from religion, from how our brains handle information and from plain old repetition. Let's go through the main ones, and keep tradition separate from the counts you can check.
 
 ## Seven things in the sky
 
-Long before telescopes, people looking up at night could see seven objects that moved across the sky differently from the stars: the Sun, the Moon, Mercury, Venus, Mars, Jupiter and Saturn. Ancient astronomers in Mesopotamia paid close attention to them, and they became important in religion and timekeeping.
+Long before telescopes, people looking up at night could see seven objects that moved across the sky differently from the stars: the Sun, the Moon, Mercury, Venus, Mars, Jupiter and Saturn. A lunar cycle is about 29.5 days, so each quarter is a little over seven days. That is an observation about the sky, not a claim that the number is lucky.
 
-That's a big reason we have a seven-day week. Babylonian astronomers tracked the Moon's phases, which run about seven days each, and the planets became linked with days. You can still see it in English and other European languages. Saturday is Saturn's day, Sunday the Sun's and Monday the Moon's. In Spanish, martes, miércoles, jueves and viernes come from Mars, Mercury, Jupiter and Venus. So every week of your life is quietly built around the number seven.
+Historians do not tell this as one single origin story. Kristin Heineman, a history instructor at Colorado State University, wrote for The Conversation that the seven-day week we inherited is in large part Babylonian, and that those seven celestial bodies are why seven mattered there. [Why are there seven days in a week?](https://source.colostate.edu/why-are-there-seven-days-in-a-week/) Other cultures used weeks of a different length, which she also notes.
+
+You can check the day names without a history book. In English, Sunday, Monday and Saturday still point at the Sun, the Moon and Saturn. Spanish martes, miércoles, jueves and viernes come from Mars, Mercury, Jupiter and Venus. Lowell Observatory walks through those names, including the Norse gods that sit on top of the Roman ones in English. [The planets and their ties to the days of the week](https://lowell.edu/view-from-mars-hill-the-planets-and-their-ties-to-the-days-of-the-week/). The names are a record of an old sky story. They are not evidence that a day named for a planet is a better day to take a chance.
 
 ## Seven in religion and stories
 
@@ -16,15 +18,17 @@ Folklore loves it too. There are seven dwarfs, seven seas, seven wonders of the 
 
 ## Why our brains might like 7
 
-There's also a psychological angle. In 1956, the psychologist George Miller published a famous paper called "The Magical Number Seven, Plus or Minus Two." He argued that people can hold about seven items in short-term memory at once. Later research suggests the real figure is closer to four chunks of information, but the paper made "seven" part of pop psychology.
+There's also a psychological angle, and it is easy to overstate. In 1956 George A. Miller published "The Magical Number Seven, Plus or Minus Two" in Psychological Review. He gathered results in which people could hold about seven chunks on certain memory tasks. He also refused to treat every cultural seven as one deep law. The paper ends by suspecting that the pile of sevens is a coincidence. [Miller, Psychological Review, 1956, volume 63, pages 81–97](https://doi.org/10.1037/h0043158).
 
-Another reason is that 7 feels random. When people are asked to pick a number between 1 and 10, they pick 7 far more often than any other. Researchers think it's because 7 doesn't feel "too obvious." It's not even like 2 or 10, not in the middle like 5 and not at the edge like 1. It's prime, so it doesn't divide neatly into anything. That gives it a slightly odd, individual feel, and people seem to like that.
+Nelson Cowan later argued that when experiments stop people from bundling items into bigger chunks, a central short-term limit averages about four chunks, often put at three to five. He described Miller's seven as a rough estimate and a rhetorical device, not a precise constant. [Cowan, Behavioral and Brain Sciences, 2001, volume 24, pages 87–114](https://doi.org/10.1017/S0140525X01003922). A readable copy is on [Cowan's site](https://memory.psych.missouri.edu/assets/doc/articles/2001/cowan-bbs-2001.pdf). Memory research does not make 7 a lucky number.
+
+A different study is often mixed up with both of those papers. Michael Kubovy and Joseph Psotka asked 558 people for the first number between 0 and 9 that came to mind. 28.4 percent said 7, more than any other digit in that range. Their later experiments pointed to a deliberate choice: people picked a number that would look spontaneous. The prompt was 0 to 9, not 1 to 10, and 7 was a plurality, not a majority. [Kubovy and Psotka, Journal of Experimental Psychology: Human Perception and Performance, 1976, volume 2, pages 291–294](https://doi.org/10.1037/0096-1523.2.2.291). Bellos, in the Guardian article above, gives his own arithmetic reason for why 7 feels distinctive among 1 to 10: it is not even, not an endpoint and not the middle value 5. That is his reading of the pattern, not a second laboratory result.
 
 ## Lucky 7 in games
 
-Gambling helped make 7 the face of luck in the modern world. Slot machines started using the triple 7 as a top jackpot symbol in the early 1900s, and it stuck.
+A row of 7s is a familiar jackpot symbol on slot machines. That is a design choice by the people who made the machines. It does not make the digit 7 more likely in a lottery draw, and this article does not treat a particular year or machine as the start of the symbol.
 
-Dice are part of the story too, but in an interesting way. When you roll two six-sided dice, 7 is the most common total. There are six ways to make it (1 and 6, 2 and 5, 3 and 4, and each of those flipped), out of 36 possible rolls. That gives it a 1 in 6 chance, higher than any other sum. In the game of craps, rolling a 7 on your first throw is a win. So 7 really does come up more often with two dice, which is about math, not magic.
+Dice are a case where 7 really is the most common total, and the reason is counting. Two six-sided dice have 6 × 6 = 36 ordered rolls. The totals of 7 are 1+6, 6+1, 2+5, 5+2, 3+4 and 4+3. That is 6 rolls out of 36, or 1 in 6. A total of 2 or 12 can happen in only 1 way. In craps, a 7 on the first roll wins, which is a rule of that game sitting on top of this count. The count does not transfer to a lottery. A lottery does not add two dice. You can load these 6 winning rolls and 36 possible rolls in the [Simple Odds Calculator](/odds).
 
 ## Seven around the world
 
@@ -44,4 +48,15 @@ In numerology, 7 is seen as the number of the thinker and the seeker. People wit
 
 ## Find your own number
 
-Your lucky number doesn't have to be 7. Try our [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) or the [Lucky Name Calculator](/tools/lucky-name-calculator) to see what number your own details add up to, or check the [Daily Lucky Number](/daily) for a fresh one each day. And if you find out you're a 7, well, you're in very popular company.
+Your lucky number doesn't have to be 7. Try our [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) or the [Lucky Name Calculator](/tools/lucky-name-calculator) to see what number your own details add up to, or check the [Daily Lucky Number](/daily) for the date-based number. And if you find out you're a 7, that means the digit sum landed there. It does not put you in a more fortunate group.
+
+## Sources checked for this article
+
+- [Alex Bellos, "Why odd numbers are dodgy, evens are good, and 7 is everyone's favourite," The Guardian, 12 April 2014](https://www.theguardian.com/science/2014/apr/13/favourite-number-survey-psychology). 44,000 self-selected responses; almost 4,000 chose 7.
+- [Kristin Heineman, "Why are there seven days in a week?," Colorado State University / The Conversation, 13 January 2020](https://source.colostate.edu/why-are-there-seven-days-in-a-week/).
+- [Sarah Gilbert, "The planets and their ties to the days of the week," Lowell Observatory, from the Arizona Daily Sun, 4 September 2021](https://lowell.edu/view-from-mars-hill-the-planets-and-their-ties-to-the-days-of-the-week/).
+- [George A. Miller, "The magical number seven, plus or minus two," Psychological Review, 1956](https://doi.org/10.1037/h0043158).
+- [Nelson Cowan, "The magical number 4 in short-term memory," Behavioral and Brain Sciences, 2001](https://doi.org/10.1017/S0140525X01003922).
+- [Michael Kubovy and Joseph Psotka, "The predominance of seven and the apparent spontaneity of numerical choices," Journal of Experimental Psychology: Human Perception and Performance, 1976](https://doi.org/10.1037/0096-1523.2.2.291).
+
+The religious and folklore examples earlier in the article are traditional counts. They are not cited as proof that 7 causes good outcomes. How this site decides what needs a source is in [how we check our work](/methodology).

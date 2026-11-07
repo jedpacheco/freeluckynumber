@@ -42,25 +42,44 @@ function AboutPage() {
 
           <h2>How the tools work</h2>
           <p>
-            Every tool runs right in your browser. The birthday and name calculators use simple, traditional
-            digit-sum methods, which we explain on each tool page so you can check the math yourself. The
-            daily number, egg, wheel and generators use your browser's random number function. We don't
-            need an account, and the things you type in aren't sent to us.
+            Every tool runs in your browser. We don't need an account, and the birthday or name you type
+            is not sent to us.
+          </p>
+          <p>
+            The birthday and name calculators are deterministic. The same date or the same spelling always
+            produces the same number, and each page shows the addition so you can redo it. Those numbers
+            are numerology traditions. They are not a scientific reading of a person and they do not
+            predict what will happen.
+          </p>
+          <p>
+            The daily number and its color are also deterministic, but the input is the date on your
+            device rather than something you type. Everyone on that local date gets the same number.
+            The weekday shown with it is simply that day's name. The short message that appears when you
+            press Reveal is the exception: it is picked at random from a fixed list, so two people can
+            share the number and still see different wording.
+          </p>
+          <p>
+            The egg, the decision wheel and the lottery generator do use your browser's random number
+            function. A random lottery line has the same chance as any other line in that format. It is
+            not a forecast. The formulas, the limits and the sources are written out in{" "}
+            <Link to="/methodology">how we check our work</Link>.
           </p>
 
           <h2>How we write our articles</h2>
           <p>
             Each article is written to answer a real question people ask, like how to calculate a life path
-            number or why 13 is considered unlucky. We read up on the history and the math, write it out in
-            normal language and go back to correct it when we learn we got something wrong. If you spot an
-            error, we'd genuinely like to know.
+            number or why 13 is considered unlucky. Tradition is labeled as tradition. A historical or
+            odds claim that we state as fact is linked to the source we checked. We correct the page when
+            a source or a game rule shows we were wrong. If you spot an error, we'd genuinely like to know.
           </p>
 
           <h2>How the site is paid for</h2>
           <p>
-            The tools are free. To cover hosting and the time it takes to build and write, we show ads from
-            Google AdSense. You can read how that works, and how to turn off personalized ads, in our{" "}
-            <Link to="/privacy">Privacy Policy</Link>.
+            The tools are free to use. Pages include Google's AdSense script, and the site publishes an
+            ads.txt file for that publisher, so Google can fill the marked advertisement areas when its
+            systems do. This page does not state an approval or serving status, and an ad is not
+            guaranteed to appear. Cookies, the limits of our "Got it" notice, and how to turn off
+            personalized ads are in the <Link to="/privacy">Privacy Policy</Link>.
           </p>
 
           <h2>Get in touch</h2>

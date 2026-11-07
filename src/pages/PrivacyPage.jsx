@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import PageHero from "../components/PageHero.jsx";
 import { CONTACT_EMAIL } from "./ContactPage.jsx";
 
-const UPDATED = "October 29, 2026";
+const UPDATED = "November 7, 2026";
 
 function PrivacyPage() {
   return (
@@ -21,7 +21,7 @@ function PrivacyPage() {
           <ul>
             <li>You don't need an account, and we don't ask for your name, email or payment details to use the tools.</li>
             <li>The tools run in your browser. Birthdays and names you type in are used to show your result and are not sent to us.</li>
-            <li>We show ads from Google AdSense. Google and its partners use cookies to show those ads, and you can turn off personalized ads.</li>
+            <li>Pages load Google's AdSense script so Google can serve ads when its systems allow it. If an ad is served, Google and its partners may use cookies. You can turn off personalized ads in Google's own settings.</li>
           </ul>
 
           <h2>Information you type into the tools</h2>
@@ -33,33 +33,56 @@ function PrivacyPage() {
 
           <h2>Cookies and local storage</h2>
           <p>
-            Cookies are small text files that a website or ad service stores in your browser. Local
-            storage is a similar feature that lets a site remember small settings. We use local storage
-            to remember that you've seen our cookie notice, and nothing else. Our
-            advertising partners use cookies as described below.
+            Cookies are small text files that a website or ad service can store in your browser. Local
+            storage is a similar feature that lets a site remember a small setting. We use local storage
+            for one key, luckyvibe-cookie-notice, which records that you dismissed the notice. We do not
+            use it for an account or for the numbers you calculate. If Google serves an ad, Google and
+            its partners may set their own cookies, as described below.
           </p>
 
           <h2>Advertising and Google AdSense</h2>
           <p>
-            We use Google AdSense to show ads on this site. This is how we keep the tools free.
+            The tools are free to use. Pages load Google's AdSense publisher script, and the site
+            publishes an ads.txt file naming that publisher. Marked advertisement areas are reserved for
+            ads. Whether an ad appears is up to Google, your browser and your location. This policy does
+            not state an approval status and does not describe a serving configuration beyond the script
+            and ads.txt file.
           </p>
           <ul>
-            <li>Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites.</li>
-            <li>Google's use of advertising cookies, including the DoubleClick cookie, enables it and its partners to serve ads to you based on your visits to this site and/or other sites on the Internet.</li>
-            <li>You can opt out of personalized advertising by visiting <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Google Ad Settings</a>.</li>
-            <li>You can also opt out of some third-party vendors' use of cookies for personalized advertising by visiting <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer">www.aboutads.info</a>.</li>
+            <li>If ads are served, third-party vendors, including Google, may use cookies to serve ads based on your prior visits to this website or other websites.</li>
+            <li>Google's use of advertising cookies, including the DoubleClick cookie, enables it and its partners to serve ads based on visits to this site and other sites on the Internet.</li>
+            <li>You can turn off personalized advertising at <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Google Ad Settings</a>.</li>
+            <li>You can also opt out of some third-party vendors' use of cookies for personalized advertising at <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer">www.aboutads.info</a>.</li>
           </ul>
           <p>
-            If you opt out, you'll still see ads, but they won't be based on your browsing. Other ad
-            networks or vendors approved by Google may also serve ads here and set their own cookies. You
-            can learn more about how Google uses information from sites that use its services at{" "}
+            Other vendors approved by Google may also serve ads and set their own cookies. How Google
+            uses information from sites that use its services is described at{" "}
             <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">
               policies.google.com/technologies/partner-sites
             </a>.
           </p>
+
+          <h2>The cookie notice is not a consent tool</h2>
           <p>
-            Visitors in the European Economic Area, the UK and Switzerland may be shown a consent message
-            from Google that lets them choose how their data is used for ads.
+            The notice at the bottom of the page has one button, "Got it." Choosing it writes the
+            dismissal into local storage and hides the notice on later visits. It does not send a
+            consent or refusal signal to Google. It is not a Google-certified consent management
+            platform, and it is not a record that you agreed to or refused personalized ads.
+          </p>
+          <p>
+            Google's EU user consent policy requires a Google-certified consent management platform,
+            integrated with the IAB Transparency and Consent Framework, when personalized ads are served
+            to people in the European Economic Area, the United Kingdom or Switzerland. The requirement
+            and the certified-platform list are Google's, on{" "}
+            <a href="https://support.google.com/adsense/answer/13554116" target="_blank" rel="noopener noreferrer">
+              Google's consent management requirements
+            </a>{" "}
+            and the{" "}
+            <a href="https://www.google.com/about/company/user-consent-policy/" target="_blank" rel="noopener noreferrer">
+              EU user consent policy
+            </a>.
+            This site has not added its own homemade consent banner in place of that platform, and this
+            policy does not claim that a certified platform is active.
           </p>
 
           <h2>Analytics and server logs</h2>

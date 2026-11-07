@@ -1521,3 +1521,54 @@ h1, h2, h3, .hero-title { letter-spacing: -0.025em !important; line-height: 1.1 
 .hero-title { font-size: clamp(2.4rem, 5.4vw, 4.4rem); }
 .nav-link, .eyebrow, .btn, .navbar-brand .brand-text small, label { font-weight: 500 !important; }
 .btn { font-weight: 600 !important; }
+
+.method-facts {
+  display: grid;
+  gap: 0.85rem;
+  margin: 0 0 1.25rem;
+}
+.method-facts > div {
+  display: grid;
+  grid-template-columns: minmax(8.5rem, 14rem) 1fr;
+  gap: 0.25rem 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(35, 21, 82, 0.1);
+}
+.method-facts dt {
+  font-weight: 650;
+  color: #231552;
+}
+.method-facts dd {
+  margin: 0;
+}
+.letter-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+.letter-table th,
+.letter-table td {
+  text-align: left;
+  padding: 0.4rem 0.55rem;
+  border-bottom: 1px solid rgba(35, 21, 82, 0.1);
+  color: #231552;
+}
+.letter-table caption {
+  caption-side: bottom;
+}
+.preset-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.editorial-note {
+  font-size: 0.98rem;
+}
+@media (max-width: 575.98px) {
+  .method-facts > div {
+    grid-template-columns: 1fr;
+  }
+  .cookie-notice {
+    font-size: 0.92rem;
+  }
+}

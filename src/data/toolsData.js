@@ -19,7 +19,7 @@ export const toolCards = [
   {
     id: 1,
     title: "Daily Lucky Number",
-    description: "Reveal a fresh lucky number, lucky color, and quick positive message.",
+    description: "A shared number and color from today's date, plus a random short message.",
     icon: "✨",
     path: "/daily",
     badge: "Daily"

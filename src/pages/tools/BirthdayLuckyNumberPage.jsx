@@ -4,19 +4,26 @@ import LuckyOrb from "../../components/LuckyOrb.jsx";
 import ShareButtons from "../../components/ShareButtons.jsx";
 import AdBox from "../../components/AdBox.jsx";
 import ConfettiBurst from "../../components/ConfettiBurst.jsx";
-import { calculateBirthdayProfile, formatShareText } from "../../utils/luckyUtils.js";
+import { explainBirthday, formatReduction, formatShareText, lifePathKeepingMasters } from "../../utils/luckyUtils.js";
+import MethodPanel, { FactList } from "../../components/MethodPanel.jsx";
+import { Link } from "react-router-dom";
 
 function BirthdayLuckyNumberPage() {
   const [birthday, setBirthday] = useState("1991-07-04");
-  const [profile, setProfile] = useState(calculateBirthdayProfile("1991-07-04"));
+  const [explained, setExplained] = useState(explainBirthday("1991-07-04"));
   const [showConfetti, setShowConfetti] = useState(false);
 
   function calculate() {
-    const result = calculateBirthdayProfile(birthday);
-    setProfile(result);
-    setShowConfetti(true);
-    setTimeout(() => setShowConfetti(false), 1600);
+    const result = explainBirthday(birthday);
+    setExplained(result);
+    if (result) {
+      setShowConfetti(true);
+      setTimeout(() => setShowConfetti(false), 1600);
+    }
   }
+
+  const profile = explained?.profile || null;
+  const lifePath = explained ? lifePathKeepingMasters(explained.dateValue) : null;
 
   const shareText = profile
     ? formatShareText("My Birthday Lucky Number", [
@@ -50,7 +57,8 @@ function BirthdayLuckyNumberPage() {
             />
 
             <p className="tool-subtext text-start mt-4">
-              This calculator reduces the date into a single fun lucky number.
+              Adds every digit in the date and reduces the total to 1–9. This is a numerology
+              tradition, not a personality test or a prediction.
             </p>
 
             <button className="btn magic-button w-100 mt-3" type="button" onClick={calculate}>
@@ -59,13 +67,19 @@ function BirthdayLuckyNumberPage() {
           </div>
 
           <div className="col-lg-7 text-center">
-            {profile && (
+            {profile ? (
               <div className="result-reveal">
                 <LuckyOrb number={profile.number} label="Birthday Profile" />
                 <h2 className="mt-4">{profile.message}</h2>
                 <p><strong>Lucky color:</strong> {profile.color}</p>
                 <p className="mb-0"><strong>Lucky day:</strong> {profile.day}</p>
+                <p className="small mt-3 mb-0">
+                  The sentence, color and day are labels stored for digits 1 through 9. They are
+                  traditional wording, not a measurement.
+                </p>
               </div>
+            ) : (
+              <p className="tool-subtext">Enter a real calendar date, then calculate.</p>
             )}
           </div>
         </div>
@@ -73,13 +87,38 @@ function BirthdayLuckyNumberPage() {
 
       {profile && <ShareButtons text={shareText} />}
 
-      <section className="content-panel mt-5">
-        <h2>How to use this calculator</h2>
-        <p>
-          Birthday calculators are interactive, easy to share, and fun for anyone who wants
-          a quick personalized result for fun.
-        </p>
-      </section>
+      {explained && (
+        <MethodPanel
+          id="birthday-method"
+          title="How this number was calculated"
+          lede="The calculator always ends on a single digit. It does not keep 11, 22 or 33."
+        >
+          <FactList
+            rows={[
+              { label: "Date", value: explained.dateValue },
+              { label: "Digits", value: explained.digits.join(", ") },
+              { label: "Sum", value: String(explained.total) },
+              { label: "Reduce", value: formatReduction(explained.reduction) },
+              {
+                label: "Life-path contrast",
+                value: lifePath.differs
+                  ? `Keeping master numbers gives ${lifePath.total} (month ${lifePath.month}, day ${lifePath.day}, year ${lifePath.year}). This calculator continues to ${profile.number}.`
+                  : `The master-number life-path method also ends on ${lifePath.total} for this date (month ${lifePath.month}, day ${lifePath.day}, year ${lifePath.year}).`
+              }
+            ]}
+          />
+          <p>
+            September 29, 2000 is a date where the methods disagree. Month 9, day 2+9 = 11 and year 2
+            add to 22, which the master-number method keeps. The digit string 2, 0, 0, 0, 0, 9, 2, 9
+            sums to 22 and this calculator reduces it to 4. Both are traditions. The{" "}
+            <Link to="/articles/what-your-life-path-number-says-about-you">life path article</Link>{" "}
+            walks through the three-part method.
+          </p>
+          <p className="mb-0">
+            Using the number on a lottery ticket does not change the chance that the ticket wins.
+          </p>
+        </MethodPanel>
+      )}
 
       <AdBox label="Advertisement" />
     </ToolLayout>

@@ -6,7 +6,9 @@ Here's an example. For July 4, 1991, the digits are 1, 9, 9, 1, 0, 7, 0 and 4. T
 
 ## How it relates to the life path number
 
-In numerology, the main birthday number is called the life path number. The traditional method reduces the month, day and year separately, then adds them. For most dates, that gives the same single digit as our quick method. The difference shows up with master numbers like 11 and 22, which the traditional method keeps instead of reducing. If you'd like to try the full version, our guide to [the life path number](/articles/what-your-life-path-number-says-about-you) walks through it step by step.
+In numerology, the main birthday number is called the life path number. The traditional method reduces the month, day and year separately, then adds them, and it keeps 11, 22 or 33 instead of reducing those further. For many dates, including July 4, 1991, that ends on the same single digit as this calculator.
+
+September 29, 2000 is a date where they disagree. The three-part method gives month 9, day 2+9 = 11 and year 2, then 9+11+2 = 22, and stops at 22. This calculator adds 2+0+0+0+0+9+2+9 = 22 and continues to 4. The page shows both results for the date you enter. Neither result is a scientific measurement. The [life path article](/articles/what-your-life-path-number-says-about-you) walks through the three-part method, and [how we check our work](/methodology) states which method the tool uses.
 
 ## What it's for
 

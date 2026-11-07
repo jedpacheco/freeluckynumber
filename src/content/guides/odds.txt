@@ -10,7 +10,7 @@ People often use "odds" and "probability" to mean the same thing, but they're sl
 
 ## Why seeing odds helps
 
-Very small chances are hard to picture. A 1 in 292 million chance, which is roughly the chance of winning the Powerball jackpot with one ticket, is so small that the meter barely moves. Seeing that visually helps a lot of people understand why lottery tickets are best treated as entertainment, not a plan.
+Very small chances are hard to picture. The published chance of matching the Powerball jackpot with one play is 1 in 292,201,338 ([Powerball prize chart](https://www.powerball.com/powerball-prize-chart)). As a percentage that is about 0.00000034 percent, so the meter barely moves. The same chart's chance of winning any prize is 1 in 24.87, and most of those prizes are small. Seeing the difference is the point of the calculator. It is not a plan and not a recommendation to buy a ticket.
 
 It's also useful for everyday questions, like the chance of drawing a certain card, winning a raffle with several tickets or guessing a coin flip correctly three times in a row (1 in 8, or 12.5 percent).
 
