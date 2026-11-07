@@ -50,7 +50,7 @@ We compare random and chosen numbers in more detail in [do quick picks or chosen
 
 ## Put the odds in perspective
 
-Whatever numbers you choose, the odds of winning a big jackpot are extremely small. For Powerball, it's about 1 in 292.2 million per ticket. For Mega Millions, about 1 in 290.5 million. Even Florida Lotto is about 1 in 23 million. Worrying about whether you'd split the prize is a bit like worrying about where you'd park your spaceship. It's fun to think about, but it's very unlikely to come up.
+Whatever numbers you choose, the chance of winning a jackpot on one play is the same tiny figure for every combination. Powerball publishes 1 in 292,201,338 ([prize chart](https://www.powerball.com/powerball-prize-chart)). Mega Millions publishes 1 in 290,472,336 ([how to play](https://www.megamillions.com/how-to-play/)). Florida Lotto publishes 1 in 22,957,480 ([odds sheet](https://floridalottery.com/content/dam/flalottery-web/files/game-reports/florida-lotto/lottoodds.pdf)). Worrying about whether you'd split a prize is a question about an event that almost never happens. The sharing point still matters as arithmetic: popular numbers are more likely to be shared if they ever do hit. It does not make those numbers more likely to hit.
 
 That's why we encourage people to treat lottery tickets as entertainment. Spend what you'd happily spend on a movie or a snack, and enjoy the daydream. Never spend money you need for rent, bills or groceries, and only play if you're of legal age where you live. If you or someone you know is struggling with gambling, call or text 1-800-GAMBLER for free, confidential help in the U.S.
 

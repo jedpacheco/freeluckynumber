@@ -14,6 +14,7 @@ function Footer() {
 
           <div className="col-md-6 text-md-end">
             <Link to="/about" className="footer-link">About</Link>
+            <Link to="/methodology" className="footer-link">How we check our work</Link>
             <Link to="/articles" className="footer-link">Articles</Link>
             <Link to="/contact" className="footer-link">Contact</Link>
             <Link to="/privacy" className="footer-link">Privacy</Link>
@@ -24,7 +25,7 @@ function Footer() {
         <hr className="footer-line" />
 
         <p className="small mb-0 text-center">
-          Results are randomly generated for fun and entertainment only. They do not guarantee outcomes or improve odds.
+          Birthday and name numbers are calculated from what you type. The daily number and color come from the date. Wheels, eggs and lottery lines use the browser's random function. None of these results predict the future or change the odds in a game.
         </p>
       </div>
     </footer>

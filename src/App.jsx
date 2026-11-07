@@ -12,6 +12,7 @@ import OddsPage from "./pages/OddsPage.jsx";
 import ArticlesPage from "./pages/ArticlesPage.jsx";
 import ArticleDetailPage from "./pages/ArticleDetailPage.jsx";
 import AboutPage from "./pages/AboutPage.jsx";
+import MethodologyPage from "./pages/MethodologyPage.jsx";
 import PrivacyPage from "./pages/PrivacyPage.jsx";
 import TermsPage from "./pages/TermsPage.jsx";
 import BirthdayLuckyNumberPage from "./pages/tools/BirthdayLuckyNumberPage.jsx";
@@ -36,6 +37,7 @@ function App() {
           <Route path="/articles/:slug" element={<ArticleDetailPage />} />
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/about" element={<AboutPage />} />
+          <Route path="/methodology" element={<MethodologyPage />} />
           <Route path="/privacy" element={<PrivacyPage />} />
           <Route path="/terms" element={<TermsPage />} />
 

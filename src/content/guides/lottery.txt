@@ -8,7 +8,7 @@ That's all it does. It picks numbers at random, the same way a quick pick at a s
 
 No tool can predict lottery results or improve your chances of winning. In a fair lottery, every combination has exactly the same chance of being drawn. A set from this generator is no more and no less likely to win than numbers you choose yourself, your birthday or 1, 2, 3, 4, 5, 6.
 
-To give a sense of scale, the published odds of winning the jackpot with one ticket are about 1 in 292.2 million for Powerball and about 1 in 290.5 million for Mega Millions. Smaller prizes have better odds, but across all tickets, players get back less than they spend on average. That's how lotteries are designed. Our [Simple Odds Calculator](/odds) can help you picture numbers like these.
+The published jackpot odds, checked on the operator pages on November 7, 2026, are 1 in 292,201,338 for one Powerball play and 1 in 290,472,336 for one Mega Millions play. Florida Lotto publishes 1 in 22,957,480 for matching 6 out of 53. Those charts also list much better odds for small prizes. Powerball's own chart puts the chance of any prize at 1 in 24.87 for a $2 play. A prize chart is not a forecast and not a reason to buy a ticket. The arithmetic and the links are in [how we check our work](/methodology) and in [lottery myths about hot and cold numbers](/articles/lottery-myths-hot-and-cold-numbers). Our [Simple Odds Calculator](/odds) can load the Powerball jackpot figure so you can see the percentage.
 
 ## Why use a random generator at all?
 

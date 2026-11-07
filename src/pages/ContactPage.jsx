@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import PageHero from "../components/PageHero.jsx";
 
 // PLACEHOLDER: change CONTACT_EMAIL to a real inbox you check before publishing.
@@ -20,7 +21,7 @@ function ContactPage() {
           <h2>What you can write to us about</h2>
           <ul>
             <li>A tool that isn't working right, or a result that looks wrong.</li>
-            <li>A mistake in one of our articles, such as an incorrect fact or outdated lottery format.</li>
+            <li>A mistake in an article, a calculation, or a lottery figure. The sources we use are listed in <Link to="/methodology">how we check our work</Link>.</li>
             <li>Ideas for new tools or topics you'd like us to cover.</li>
             <li>Privacy questions, including requests about any information we may hold.</li>
             <li>Advertising or partnership questions.</li>

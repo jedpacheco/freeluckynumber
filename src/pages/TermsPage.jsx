@@ -12,13 +12,15 @@ function TermsPage() {
 
       <main className="container py-5">
         <section className="content-panel">
-          <p>Last updated October 29, 2026. By using freeluckynumber.com you agree to these terms.</p>
+          <p>Last updated November 7, 2026. By using freeluckynumber.com you agree to these terms.</p>
 
           <h2>Entertainment and learning only</h2>
           <p>
-            LuckyVibe Daily provides entertainment and educational tools and articles. Results are
-            randomly generated or calculated with simple formulas that we explain on each tool page.
-            Lucky numbers, numerology and astrology are traditions and beliefs, not predictions.
+            LuckyVibe Daily provides entertainment and educational tools and articles. Birthday numbers,
+            name numbers, and the daily number and color are calculated with formulas explained on each
+            tool. The daily message, the wheel, the egg and the lottery lines use the browser's random
+            function. Lucky numbers, numerology and astrology are traditions and beliefs, not predictions
+            and not science.
           </p>
 
           <h2>No guarantees and no advice</h2>
@@ -52,9 +54,10 @@ function TermsPage() {
 
           <h2>Ads and third-party links</h2>
           <p>
-            The site shows ads from Google AdSense and may link to other websites. We aren't responsible for
-            the content or practices of third-party sites or ads. See our <Link to="/privacy">Privacy Policy</Link>{" "}
-            for how advertising cookies work.
+            The site is set up so Google AdSense can fill marked advertisement areas. An ad may or may not
+            appear, and this page does not state an approval status. We aren't responsible for the content
+            or practices of third-party sites or ads. See our <Link to="/privacy">Privacy Policy</Link> for
+            advertising cookies and for the limits of the "Got it" notice.
           </p>
         </section>
       </main>

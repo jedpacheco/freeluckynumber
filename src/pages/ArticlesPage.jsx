@@ -21,6 +21,11 @@ function ArticlesPage() {
       />
 
       <main className="container py-5">
+        <p className="section-copy mb-5">
+          Numerology and zodiac articles describe traditions. Odds articles cite published game rules or
+          count the outcomes. The sources and the tool formulas are in{" "}
+          <Link to="/methodology">how we check our work</Link>.
+        </p>
         {groups.map((g) => {
           const list = articles.filter((a) => a.category === g.id);
           if (!list.length) return null;

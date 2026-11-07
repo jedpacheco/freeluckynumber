@@ -10,7 +10,7 @@ The second is a true random number generator, which measures something physical 
 
 ## What our tools use
 
-The tools on LuckyVibe Daily use JavaScript's built-in random function, Math.random, which is a pseudorandom generator built into your web browser. It's more than random enough for picking dinner, cracking a lucky egg or generating a fun set of numbers. It isn't designed for security, so it shouldn't be used to create passwords. Browsers offer a separate, stronger function for that.
+The decision wheel, the lucky egg and the lottery generator use JavaScript's built-in random function, Math.random, which is a pseudorandom generator in your web browser. The daily message uses it too. The daily number and color do not: those come from the date, as the [Daily Lucky Number](/daily) page shows. Birthday and name numbers are digit sums, not random draws. Math.random is more than random enough for picking dinner or a fun set of numbers. It isn't designed for security, so it shouldn't be used to create passwords. Browsers offer a separate, stronger function for that.
 
 ## Random doesn't mean evenly spread
 

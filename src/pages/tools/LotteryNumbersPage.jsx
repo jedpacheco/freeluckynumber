@@ -4,7 +4,9 @@ import ShareButtons from "../../components/ShareButtons.jsx";
 import AdBox from "../../components/AdBox.jsx";
 import ConfettiBurst from "../../components/ConfettiBurst.jsx";
 import { lotteryCategories, lotteryGames } from "../../data/lotteryGames.js";
-import { formatShareText, getRandomNumber } from "../../utils/luckyUtils.js";
+import { describeDrawFormat, formatInteger, formatShareText, getRandomNumber } from "../../utils/luckyUtils.js";
+import { publishedOddsFor } from "../../data/publishedOdds.js";
+import MethodPanel, { FactList } from "../../components/MethodPanel.jsx";
 
 function generateNumbers({ count, min, max, allowRepeats = false }) {
   const safeCount = Math.max(Number(count) || 1, 1);
@@ -94,6 +96,9 @@ function LotteryNumbersPage() {
 
     return lotteryGames.find((game) => game.id === selectedGameId) || lotteryGames[0];
   }, [category, selectedGameId, customGame]);
+
+  const formatInfo = useMemo(() => describeDrawFormat(selectedGame), [selectedGame]);
+  const published = publishedOddsFor(selectedGame.id);
 
   function handleCategoryChange(newCategory) {
     setCategory(newCategory);
@@ -391,14 +396,50 @@ function LotteryNumbersPage() {
 
       <ShareButtons text={shareText} />
 
-      <section className="content-panel mt-5">
-        <h2>About this generator</h2>
-        <p>
-          This tool includes common U.S. lottery-style formats, daily number games,
-          Florida games, multi-state games, keno-style picks, and a custom game builder.
-          It is built for entertainment and quick number generation.
+      <MethodPanel
+        id="lottery-method"
+        title="What this line is, and what it is not"
+        lede="Each new line is drawn with the browser's random function. Past draws are not an input. The line is not more likely than any other line in the same format, including a line you choose yourself. This site does not sell tickets or take bets."
+      >
+        <FactList
+          rows={[
+            { label: "Format", value: `${selectedGame.name}: ${selectedGame.count} numbers from ${selectedGame.min} to ${selectedGame.max}${selectedGame.bonusLabel ? `, plus ${selectedGame.bonusLabel}` : ""}.` },
+            { label: "Count of lines", value: formatInfo?.summary || "This setup cannot be counted as a simple combination. Check the official rules before treating it as a complete game." },
+            {
+              label: "Published jackpot odds",
+              value: published
+                ? `1 in ${formatInteger(published.jackpotOdds)} for ${published.matrix}. ${published.extra}`
+                : "This format is not one of the three operator charts cited on this site. The count above is only the size of the generator's settings."
+            }
+          ]}
+        />
+        {published && (
+          <p>
+            Source:{" "}
+            <a href={published.sourceUrl} target="_blank" rel="noopener noreferrer">{published.sourceLabel}</a>.
+            {published.jackpotOdds === formatInfo?.lines
+              ? " That published figure matches the combination count for these settings."
+              : " The published figure does not match this generator's current settings, so use the operator page."}
+          </p>
+        )}
+        {formatInfo?.kind === "combination" && !published && (
+          <p>
+            For a game that draws every number from one pool and pays the jackpot only for a full match,
+            this combination count is the jackpot chance. Keno-style games draw a different set and pay
+            from a prize table, so the count of ways to choose spots is not a prize probability.
+          </p>
+        )}
+        {formatInfo?.kind === "ordered-with-repeats" && (
+          <p>
+            This count matches a straight play, where order matters and repeats are allowed. A boxed play
+            or another wager has a different count. Check the official rules for that game.
+          </p>
+        )}
+        <p className="mb-0">
+          Game rules change. If a linked chart disagrees with the number on this page, the operator chart
+          is the one to trust.
         </p>
-      </section>
+      </MethodPanel>
 
       <AdBox />
     </ToolLayout>

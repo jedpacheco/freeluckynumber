@@ -38,15 +38,17 @@ Some stores advertise that they've sold several winning tickets. That's usually 
 
 ## What are the real odds?
 
-The numbers are worth seeing written out. These are the published odds of winning the top prize with one ticket in some well-known U.S. games:
+These are jackpot figures copied from the operator pages on November 7, 2026. They are the chance that one play matches the top prize in a fair draw of that matrix. They are not a forecast, and this site does not sell tickets. If a linked page later shows a different matrix, use that page.
 
-- Powerball: about 1 in 292.2 million.
-- Mega Millions: about 1 in 290.5 million, after the game's changes in 2025.
-- Florida Lotto: about 1 in 23 million.
+- Powerball: 1 in 292,201,338. Five numbers from 1 to 69, plus one Powerball from 1 to 26. [Powerball prize chart](https://www.powerball.com/powerball-prize-chart). The same chart says the overall chance of winning any prize is 1 in 24.87 for a $2 play, rounded to two decimal places. That includes prizes of a few dollars, so it is a different fact from the jackpot odds.
+- Mega Millions: 1 in 290,472,336. Five numbers from 1 to 70, plus one Mega Ball from 1 to 24. [Mega Millions, how to play](https://www.megamillions.com/how-to-play/).
+- Florida Lotto: 1 in 22,957,480. Six numbers from 1 to 53. [Florida Lottery LOTTO odds sheet](https://floridalottery.com/content/dam/flalottery-web/files/game-reports/florida-lotto/lottoodds.pdf).
 
-To put 1 in 292 million in perspective, imagine picking one specific second at random from more than nine years of seconds. Smaller prizes have much better odds, but they're still set up so that, on average, players get back less than they spend. That's how lotteries raise money for states and pay for prizes.
+You can rebuild the Powerball figure. The number of ways to choose 5 items from 69, ignoring order, is (69 × 68 × 67 × 66 × 65) / (5 × 4 × 3 × 2 × 1) = 11,238,513. Multiply by the 26 Powerball numbers: 11,238,513 × 26 = 292,201,338. The same counting gives Mega Millions as 12,103,014 × 24 = 290,472,336, and Florida Lotto as (53 × 52 × 51 × 50 × 49 × 48) / (6 × 5 × 4 × 3 × 2 × 1) = 22,957,480.
 
-If you'd like to play around with odds yourself, our [Simple Odds Calculator](/odds) shows chances as a percentage and a visual meter.
+292,201,338 seconds is 3,381.96 days, or about 9.26 years of 365.25-day years. That is one way to picture the jackpot chance. It is not a claim about any other prize.
+
+A published chart is not a promise that players as a group get their money back. Our [Simple Odds Calculator](/odds) can load the Powerball jackpot count so you can see how small the percentage is. The generator on this site only draws a random line in a chosen format. [How we check our work](/methodology) lists the same three sources.
 
 ## So how should you pick numbers?
 

@@ -10,7 +10,7 @@ export const staticMeta = {
   },
   "/daily": {
     title: `Daily Lucky Number, Color and Message | ${SITE}`,
-    description: "Get today's lucky number, lucky color and a short positive message. A light daily ritual for fun, with an explanation of how the number is made."
+    description: "Today's lucky number and color are calculated from the date on your device. The short message is a random line from a fixed list. For fun, not prediction."
   },
   "/generators": {
     title: `Lucky Generators and Calculators | ${SITE}`,
@@ -26,7 +26,11 @@ export const staticMeta = {
   },
   "/about": {
     title: `About Us | ${SITE}`,
-    description: "What LuckyVibe Daily is, why we built it, how our tools work and the honest approach we take to luck, numerology and lottery odds."
+    description: "What LuckyVibe Daily is, why we built it, how the date-based daily number differs from the random tools, and how numerology is labeled as tradition."
+  },
+  "/methodology": {
+    title: `How We Check Our Work | ${SITE}`,
+    description: "How LuckyVibe Daily separates numerology traditions from checkable math, which lottery odds we cite, and what the cookie notice does not do."
   },
   "/contact": {
     title: `Contact Us | ${SITE}`,

@@ -3,6 +3,7 @@ import PageHero from "../components/PageHero.jsx";
 import AdBox from "../components/AdBox.jsx";
 import { articles } from "../data/articlesData.js";
 import RichText from "../components/RichText.jsx";
+import EditorialNote from "../components/EditorialNote.jsx";
 import NotFoundPage from "./NotFoundPage.jsx";
 
 function ArticleDetailPage() {
@@ -23,6 +24,7 @@ function ArticleDetailPage() {
 
       <main className="container py-5">
         <article className="content-panel article-panel">
+          <EditorialNote />
           {article.body ? (
             <RichText text={article.body} />
           ) : (
