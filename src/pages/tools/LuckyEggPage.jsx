@@ -3,6 +3,8 @@ import ToolLayout from "../../components/ToolLayout.jsx";
 import ShareButtons from "../../components/ShareButtons.jsx";
 import AdBox from "../../components/AdBox.jsx";
 import ConfettiBurst from "../../components/ConfettiBurst.jsx";
+import RichText from "../../components/RichText.jsx";
+import eggNotes from "../../content/guides/egg-reveal-notes.txt?raw";
 
 const luckyPhrases = [
   "A good surprise may find you soon.",
@@ -104,11 +106,8 @@ function LuckyEggPage() {
       {isCracked && <ShareButtons text={shareText} />}
 
       <section className="content-panel mt-5">
-        <h2>Why people enjoy this tool</h2>
-        <p>
-          Reveal tools create a short moment of suspense, motion, and surprise. They are quick,
-          playful, and easy to share.
-        </p>
+        <p className="article-published">Updated <time dateTime="2026-11-17">Nov 17, 2026</time></p>
+        <RichText text={eggNotes} />
       </section>
 
       <AdBox />

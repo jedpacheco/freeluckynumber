@@ -30,7 +30,7 @@ The year is 1988, and 1 + 9 + 8 + 8 = 26, then 2 + 6 = 8.
 
 Now 3 + 6 + 8 = 17, and 1 + 7 = 8. Same answer as Method 1.
 
-Where the methods can differ is with master numbers. If any step lands on 11, 22 or 33, numerologists keep it instead of reducing it. That's why some people get an 11 using this method when a quick digit sum would have given them a 2. We explain these in [master numbers 11, 22 and 33](/articles/master-numbers-11-22-33), and the full life path method is in [what your life path number says about you](/articles/what-your-life-path-number-says-about-you).
+Where the methods can differ is with master numbers. If any step lands on 11, 22 or 33, numerologists keep it instead of reducing it. That's why some people get an 11 using this method when a quick digit sum would have given them a 2. We explain these in [master numbers 11, 22 and 33](/articles/master-numbers-11-22-33), and the full life path method is in [what your life path number says about you](/articles/what-your-life-path-number-says-about-you). A personal year number leaves your birth year out and uses the calendar year instead. [What your personal year number means for 2027](/articles/what-your-personal-year-number-means-for-2027) shows that calculation.
 
 ## Method 3: Just the day you were born
 
@@ -62,7 +62,7 @@ For March 15, 1988, the digits added up to 35, and 35 divided by 9 leaves a rema
 
 People use their lucky number in all kinds of small ways:
 
-- Picking a jersey number, a locker or a seat.
+- Picking a [jersey number](/articles/lucky-jersey-numbers), a locker or a seat.
 - Setting a phone passcode or alarm time (though maybe not your bank PIN, since birthdays are easy for others to guess).
 - Choosing a date for something important, like a move or a first day at a new job.
 - Just having a fun fact about yourself to share at a party.

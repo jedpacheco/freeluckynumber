@@ -38,6 +38,27 @@ function internalLinks(text) {
   return [...text.matchAll(/\]\((\/[^)\s]+)\)/g)].map((match) => match[1]);
 }
 
+const NEW_ARTICLES = [
+  {
+    slug: "what-your-personal-year-number-means-for-2027",
+    title: "Personal Year Number for 2027: Meaning and How to Calculate It | LuckyVibe Daily",
+    description: "How to calculate your numerology personal year number for 2027 from your birth month and day, with a worked example and what each year is traditionally said to mean.",
+    phrase: /personal year for 2027 is 4/
+  },
+  {
+    slug: "why-lucky-rituals-feel-good",
+    title: "Why Lucky Rituals Feel Good, Even When They Don't Change the Odds | LuckyVibe Daily",
+    description: "An honest look at why lucky numbers, charms and little rituals can still feel meaningful, even though they don't change the odds of a random event.",
+    phrase: /illusion of control/
+  },
+  {
+    slug: "lucky-jersey-numbers",
+    title: "Lucky Jersey Numbers: Why Athletes and Fans Get Attached | LuckyVibe Daily",
+    description: "Why players pick certain jersey numbers, why some numbers get retired, and why a favorite number can feel lucky without changing how the game works.",
+    phrase: /Jackie Robinson/
+  }
+];
+
 test("article and guide links point at routes the app actually renders", () => {
   const routes = knownRoutes();
   assert.ok(routes.has("/methodology"));
@@ -50,6 +71,57 @@ test("article and guide links point at routes the app actually renders", () => {
     }
   }
   assert.deepEqual(missing, []);
+});
+
+test("new articles are listed, dated, and linked from the pages their frontmatter names", () => {
+  const sitemap = fs.readFileSync(path.join(root, "public/sitemap.xml"), "utf8");
+  const listing = fs.readFileSync(path.join(root, "src/pages/ArticlesPage.jsx"), "utf8");
+  assert.match(listing, /articles\.filter\(\(a\) => a\.category === g\.id\)/);
+  const rituals = fs.readFileSync(path.join(root, "src/content/articles/why-lucky-rituals-feel-good.txt"), "utf8");
+  const jersey = fs.readFileSync(path.join(root, "src/content/articles/lucky-jersey-numbers.txt"), "utf8");
+  assert.match(rituals, /\/articles\/lucky-jersey-numbers/);
+  assert.match(jersey, /\/articles\/why-lucky-rituals-feel-good/);
+  assert.equal(rituals.includes("draft-for-review"), false);
+  assert.equal(rituals.includes("Not published"), false);
+  assert.equal(jersey.includes("draft-for-review"), false);
+
+  const inbound = {
+    "what-your-personal-year-number-means-for-2027": [
+      "src/content/articles/what-your-life-path-number-says-about-you.txt",
+      "src/content/articles/how-to-find-your-lucky-number-from-your-birthday.txt",
+      "src/content/articles/master-numbers-11-22-33.txt",
+      "src/content/guides/birthday.txt"
+    ],
+    "why-lucky-rituals-feel-good": [
+      "src/content/articles/gamblers-fallacy-explained.txt",
+      "src/content/articles/lottery-myths-hot-and-cold-numbers.txt",
+      "src/content/articles/why-7-is-the-luckiest-number.txt",
+      "src/content/guides/daily.txt"
+    ],
+    "lucky-jersey-numbers": [
+      "src/content/articles/why-7-is-the-luckiest-number.txt",
+      "src/content/articles/why-lucky-rituals-feel-good.txt",
+      "src/content/articles/how-to-find-your-lucky-number-from-your-birthday.txt",
+      "src/content/guides/birthday.txt"
+    ]
+  };
+
+  for (const article of NEW_ARTICLES) {
+    const body = fs.readFileSync(path.join(root, "src/content/articles", `${article.slug}.txt`), "utf8");
+    assert.equal(body.includes("draft-for-review"), false);
+    assert.equal(body.includes("Not published"), false);
+    const block = sitemap.match(new RegExp(`<loc>https://freeluckynumber.com/articles/${article.slug}</loc>\\s*<lastmod>([^<]+)</lastmod>`));
+    assert.equal(block && block[1], "2026-11-17");
+    for (const file of inbound[article.slug]) {
+      const text = fs.readFileSync(path.join(root, file), "utf8");
+      assert.ok(text.includes(`/articles/${article.slug}`), `${file} -> ${article.slug}`);
+    }
+  }
+
+  const eggBlock = sitemap.match(/<loc>https:\/\/freeluckynumber\.com\/tools\/lucky-egg-reveal<\/loc>\s*<lastmod>([^<]+)<\/lastmod>/);
+  assert.equal(eggBlock && eggBlock[1], "2026-11-17");
+  const before = (sitemap.match(/<loc>/g) || []).length;
+  assert.ok(before >= 37);
 });
 
 test("cited odds and research links are present, and the old unsupported figures are gone", () => {
@@ -96,7 +168,7 @@ test("rendered pages explain the real methods and do not invent an ad or consent
     appType: "custom"
   });
   t.after(() => vite.close());
-  const { render } = await vite.ssrLoadModule("/src/entry-server.jsx");
+  const { render, getMeta } = await vite.ssrLoadModule("/src/entry-server.jsx");
 
   const about = render("/about");
   assert.match(about, /date on your device/);
@@ -147,6 +219,41 @@ test("rendered pages explain the real methods and do not invent an ad or consent
   assert.match(seven, /editorial team/);
   assert.match(seven, /doi\.org\/10\.1037\/h0043158/);
   assert.match(seven, /not a laboratory experiment/);
+  assert.match(seven, /\/articles\/lucky-jersey-numbers/);
+  assert.match(seven, /\/articles\/why-lucky-rituals-feel-good/);
+
+  const titles = new Set();
+  const descriptions = new Set();
+  for (const article of NEW_ARTICLES) {
+    const meta = getMeta(`/articles/${article.slug}`);
+    assert.equal(meta.title, article.title);
+    assert.equal(meta.description, article.description);
+    assert.equal(meta.canonical, `/articles/${article.slug}`);
+    titles.add(meta.title);
+    descriptions.add(meta.description);
+    const html = render(`/articles/${article.slug}`);
+    assert.match(html, article.phrase);
+    assert.match(html, /Published <time dateTime="2026-11-17">Nov 17, 2026<\/time>/);
+    assert.equal(html.includes("draft-for-review"), false);
+    assert.equal(html.includes("Not published"), false);
+    const listing = render("/articles");
+    assert.match(listing, new RegExp(article.slug));
+  }
+  assert.equal(titles.size, NEW_ARTICLES.length);
+  assert.equal(descriptions.size, NEW_ARTICLES.length);
+
+  const egg = render("/tools/lucky-egg-reveal");
+  assert.match(egg, /Updated <time dateTime="2026-11-17">Nov 17, 2026<\/time>/);
+  assert.match(egg, /fixed list of 8 lucky phrases/);
+  assert.match(egg, /Crack the Egg/);
+  assert.match(egg, /Your message is waiting inside/);
+  assert.equal(egg.includes("motion, and surprise"), false);
+  assert.equal(egg.includes("draft-for-review"), false);
+  const eggSource = fs.readFileSync(path.join(root, "src/pages/tools/LuckyEggPage.jsx"), "utf8");
+  assert.match(eggSource, /function crackEgg\(\)/);
+  assert.match(eggSource, /Math\.floor\(Math\.random\(\) \* luckyPhrases\.length\)/);
+  assert.match(eggSource, /A good surprise may find you soon\./);
+  assert.match(eggSource, /Try Another Egg/);
 
   const myths = render("/articles/lottery-myths-hot-and-cold-numbers");
   assert.match(myths, /11,238,513/);

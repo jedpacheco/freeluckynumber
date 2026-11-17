@@ -1,0 +1,39 @@
+## Why people enjoy this tool
+
+Reveal tools create a short moment of suspense, then a small surprise. You press, the egg cracks, and a phrase appears. It's quick, playful and easy to share, closer to a fortune cookie than to a reading of your life. The egg is a toy for a pause in the day, not a prediction engine.
+
+## How it works
+
+When you crack the egg, the page picks one line at random from a fixed list of 8 lucky phrases. The choice is made in your browser with JavaScript's built-in random function, Math.random, the same method used by our decision wheel and by the short message on the [Daily Lucky Number](/daily) page.
+
+The phrases are encouraging and general. They aren't written for you, they aren't based on the date, and they don't use anything you type. Nothing you do on this page is sent to us. The result stays in your browser unless you choose to share it.
+
+Because the list is short and the pick is random, repeats are normal, and a new crack can show a different line. A phrase isn't "using up" its luck, and a repeat isn't a sign.
+
+The egg is also different from the daily number. The daily number and color come from the date on your device, so everyone on that local date gets the same pair. The egg doesn't use the date. It's a fresh random phrase every time, and it can't predict your day or change the odds in a game of chance. The details are in [how we check our work](/methodology), and [how random number generators work](/articles/how-random-number-generators-work) explains the browser function in plain English.
+
+## How to use it
+
+- Tap the egg, or press the button, and wait for the phrase to appear.
+- If you want a different line, use "Try Another Egg" and crack it again.
+- Share the phrase by email, text or copy if you want to send it to someone.
+- Use it as a light prompt: a smile, a conversation starter or a moment to pause.
+
+It's a good fit for low-stakes moments, not for medical, legal, financial or other important choices. Those deserve real judgment, not a sentence from a list of 8.
+
+## FAQ
+
+**Is the phrase a prediction?**
+No. It's one of 8 fixed lines, chosen at random. It doesn't know what will happen, and it isn't a personal reading.
+
+**Will everyone get the same phrase today?**
+No. Unlike the daily number, the egg isn't tied to the date. Two people can crack it at the same time and see different lines.
+
+**Can I get the same phrase twice?**
+Yes. With only 8 lines and a new random pick each time, repeats are normal.
+
+**Do you store my result or need an account?**
+No. The pick runs in your browser. You don't need an account, and the phrase isn't sent to us.
+
+**How is this different from the Daily Lucky Number?**
+The [Daily Lucky Number](/daily) gives everyone on the same local date the same number and color. Its short message is random, like the egg. The egg itself is only the random phrase: no date seed, no shared daily number.

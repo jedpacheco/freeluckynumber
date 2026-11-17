@@ -52,7 +52,7 @@ A published chart is not a promise that players as a group get their money back.
 
 ## So how should you pick numbers?
 
-Any way you like. Birthdays, anniversaries, a random generator, your lucky number, your dog's age. Since every combination has the same odds, the method you use for picking numbers is really just a matter of personal enjoyment.
+Any way you like. Birthdays, anniversaries, a random generator, your lucky number, your dog's age. Since every combination has the same odds, the method you use for picking numbers is really just a matter of personal enjoyment. A ritual around numbers you like can still feel good. It does not change those odds, which [why lucky rituals feel good](/articles/why-lucky-rituals-feel-good) explains.
 
 Our [Lottery Number Generator](/tools/lottery-number-generator) creates random number sets in the formats of popular U.S. games. It's handy if you don't want to think about it, but it doesn't make any set more likely to win. Nothing can.
 

@@ -38,10 +38,31 @@ for (const url of routes) {
 }
 fs.writeFileSync(path.join(dist, "404.html"), page("/this-page-does-not-exist", notFoundMeta, { noindex: true }));
 
+// Keep lastmod dates already recorded in public/sitemap.xml. New routes get the build date.
+// Azure runs this script on deploy, so a later build must not rewrite 2026-11-17.
+function previousLastmods() {
+  const file = path.join(root, "public", "sitemap.xml");
+  if (!fs.existsSync(file)) return new Map();
+  const xml = fs.readFileSync(file, "utf8");
+  const map = new Map();
+  const re = /<loc>([^<]+)<\/loc>\s*<lastmod>([^<]+)<\/lastmod>/g;
+  let match;
+  while ((match = re.exec(xml)) !== null) {
+    let loc = match[1].trim();
+    if (loc.startsWith(SITE_URL)) loc = loc.slice(SITE_URL.length) || "/";
+    map.set(loc, match[2].trim());
+  }
+  return map;
+}
+
+const previous = previousLastmods();
 const today = new Date().toISOString().slice(0, 10);
 const urls = routes
   .filter((r) => !sitemapExclude.includes(r))
-  .map((r) => `  <url>\n    <loc>${SITE_URL}${r === "/" ? "/" : r}</loc>\n    <lastmod>${today}</lastmod>\n  </url>`)
+  .map((r) => {
+    const lastmod = previous.get(r) || today;
+    return `  <url>\n    <loc>${SITE_URL}${r === "/" ? "/" : r}</loc>\n    <lastmod>${lastmod}</lastmod>\n  </url>`;
+  })
   .join("\n");
 fs.writeFileSync(
   path.join(dist, "sitemap.xml"),
