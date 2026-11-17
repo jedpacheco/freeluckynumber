@@ -6,6 +6,13 @@ import RichText from "../components/RichText.jsx";
 import EditorialNote from "../components/EditorialNote.jsx";
 import NotFoundPage from "./NotFoundPage.jsx";
 
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+function publishedLabel(iso) {
+  const [year, month, day] = iso.split("-").map(Number);
+  return `${MONTHS[month - 1]} ${day}, ${year}`;
+}
+
 function ArticleDetailPage() {
   const { slug } = useParams();
   const article = articles.find((item) => item.slug === slug);
@@ -24,6 +31,11 @@ function ArticleDetailPage() {
 
       <main className="container py-5">
         <article className="content-panel article-panel">
+          {article.published && (
+            <p className="article-published">
+              Published <time dateTime={article.published}>{publishedLabel(article.published)}</time>
+            </p>
+          )}
           <EditorialNote />
           {article.body ? (
             <RichText text={article.body} />

@@ -72,4 +72,4 @@ That said, master numbers are a fun part of the tradition, and a lot of people e
 
 ## Find your own numbers
 
-Our [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) gives you a quick single-digit lucky number from your birth date. To check for master numbers, use the three-part method above. You can also try the [Lucky Name Calculator](/tools/lucky-name-calculator) and watch whether your name total passes through 11, 22 or 33 before it reduces.
+Our [Birthday Lucky Number Calculator](/tools/birthday-lucky-number) gives you a quick single-digit lucky number from your birth date. To check for master numbers, use the three-part method above. You can also try the [Lucky Name Calculator](/tools/lucky-name-calculator) and watch whether your name total passes through 11, 22 or 33 before it reduces. The same keep-or-reduce choice shows up in a personal year. [What your personal year number means for 2027](/articles/what-your-personal-year-number-means-for-2027) walks through a date where keeping every 11 and reducing every part give different results.

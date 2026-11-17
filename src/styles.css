@@ -1564,6 +1564,10 @@ h1, h2, h3, .hero-title { letter-spacing: -0.025em !important; line-height: 1.1 
 .editorial-note {
   font-size: 0.98rem;
 }
+.article-published {
+  font-size: 0.98rem;
+  margin-bottom: 0.75rem;
+}
 @media (max-width: 575.98px) {
   .method-facts > div {
     grid-template-columns: 1fr;

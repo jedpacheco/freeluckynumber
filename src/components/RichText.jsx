@@ -2,22 +2,26 @@ import { Link } from "react-router-dom";
 
 // Tiny formatter for article/guide text.
 // Blocks are separated by blank lines. "## " = heading, "### " = subheading,
-// lines starting with "- " = bullet list. Inline [text](/path) = link.
+// lines starting with "- " = bullet list. Inline [text](/path) = link, **text** = bold.
 function renderInline(text, keyBase) {
   const parts = [];
-  const re = /\[([^\]]+)\]\(([^)]+)\)/g;
+  const re = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*/g;
   let last = 0;
   let m;
   let i = 0;
   while ((m = re.exec(text)) !== null) {
     if (m.index > last) parts.push(text.slice(last, m.index));
-    const href = m[2];
-    if (href.startsWith("/")) {
-      parts.push(<Link key={`${keyBase}-${i++}`} to={href}>{m[1]}</Link>);
+    if (m[3] != null) {
+      parts.push(<strong key={`${keyBase}-${i++}`}>{m[3]}</strong>);
     } else {
-      parts.push(
-        <a key={`${keyBase}-${i++}`} href={href} target="_blank" rel="noopener noreferrer">{m[1]}</a>
-      );
+      const href = m[2];
+      if (href.startsWith("/")) {
+        parts.push(<Link key={`${keyBase}-${i++}`} to={href}>{m[1]}</Link>);
+      } else {
+        parts.push(
+          <a key={`${keyBase}-${i++}`} href={href} target="_blank" rel="noopener noreferrer">{m[1]}</a>
+        );
+      }
     }
     last = re.lastIndex;
   }

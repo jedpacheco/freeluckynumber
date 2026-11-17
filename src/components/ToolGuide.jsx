@@ -10,9 +10,9 @@ import { Link } from "react-router-dom";
 import { articles } from "../data/articlesData.js";
 
 const guides = {
-  birthday: { text: birthday, related: ["what-your-life-path-number-says-about-you", "how-to-find-your-lucky-number-from-your-birthday", "master-numbers-11-22-33", "lucky-numbers-for-each-zodiac-sign"] },
+  birthday: { text: birthday, related: ["what-your-life-path-number-says-about-you", "how-to-find-your-lucky-number-from-your-birthday", "master-numbers-11-22-33", "lucky-numbers-for-each-zodiac-sign", "what-your-personal-year-number-means-for-2027", "lucky-jersey-numbers"] },
   name: { text: name, related: ["name-numerology-letters-to-numbers", "what-your-life-path-number-says-about-you", "master-numbers-11-22-33"] },
-  daily: { text: daily, related: ["angel-numbers-111-222-333", "why-7-is-the-luckiest-number", "lucky-colors-and-numbers-2027-by-zodiac-sign"] },
+  daily: { text: daily, related: ["angel-numbers-111-222-333", "why-7-is-the-luckiest-number", "lucky-colors-and-numbers-2027-by-zodiac-sign", "why-lucky-rituals-feel-good"] },
   odds: { text: odds, related: ["gamblers-fallacy-explained", "lottery-myths-hot-and-cold-numbers", "understanding-odds-in-simple-terms"] },
   decision: { text: decision, related: ["how-to-use-a-random-picker-to-decide-faster", "why-decision-wheels-are-fun", "how-random-number-generators-work"] },
   lottery: { text: lottery, related: ["lottery-myths-hot-and-cold-numbers", "quick-picks-vs-chosen-numbers", "birthday-numbers-and-the-lottery", "gamblers-fallacy-explained"] },
